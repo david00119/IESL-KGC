@@ -1,0 +1,3 @@
+2
+avoid eating	0
+good to eat	1
