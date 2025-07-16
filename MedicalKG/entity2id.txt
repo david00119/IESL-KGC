@@ -1,0 +1,5654 @@
+5653
+abalone	0
+abdominal abscess	1
+abdominal aortic aneurysm	2
+abdominal axillary lipodystrophy in infants	3
+abdominal bloating	4
+abdominal distension in children	5
+abdominal mass	6
+abdominal pain in children	7
+abdominal paragonimiasis	8
+abdominal pregnancy	9
+abdominal trauma	10
+abdominal tumors	11
+abdominal wall fibrosarcoma	12
+abdominal wall incisional hernia	13
+abnormal labor force dystocia	14
+abnormal soft birth canal dystocia	15
+abnormal vaginal discharge	16
+abnormalities of the temporal and mandibular joints	17
+abortion	18
+abscess	19
+acanthosis nigricans of oral mucosa	20
+accessory breast cancer	21
+acetabular fracture	22
+acetaminophen poisoning	23
+acetanilide poisoning	24
+achalasia	25
+achalasia in children	26
+achilles tendinitis	27
+achilles tendon rupture	28
+acholeretic jaundice syndrome	29
+achondroplasia	30
+achromatopsia	31
+acid and alkali burns	32
+acid-base chemical injury to the eye	33
+acidosis	34
+acinar cell carcinoma	35
+acinetobacter infection	36
+acinetobacter pneumonia	37
+acne	38
+acne conglobata	39
+acne fulminans	40
+acne vulgaris	41
+acoustic neuroma	42
+acquired arteriovenous fistula	43
+acquired hemophilia	44
+acquired immunodeficiency syndrome in children	45
+acquired immunodeficiency syndrome nephropathy in children	46
+acquired platelet dysfunction	47
+acquired tricuspid regurgitation	48
+acrocyanosis	49
+acrodermatitis chronica atrophica	50
+acrodermatitis continua	51
+acrodermatitis enteropathica	52
+acrodermatitis enteropathica in children	53
+acrodermatitis enteropathica syndrome	54
+acrodermatitis persistent	55
+acromioclavicular dislocation	56
+actinic keratosis	57
+actinomycosis	58
+actinomycosis of bone	59
+acute abdomen	60
+acute abdomen in the elderly	61
+acute abdominal-hyperlipidemia syndrome	62
+acute abscess	63
+acute adnexitis	64
+acute alcohol intoxication	65
+acute amoebic dysentery	66
+acute and chronic hepatitis	67
+acute and subacute intracerebral hematoma	68
+acute and subacute subdural hematoma	69
+acute angle-closure glaucoma	70
+acute apical periodontitis	71
+acute appendicitis	72
+acute appendicitis during pregnancy	73
+acute appendicitis in children	74
+acute appendicitis in patients with aids	75
+acute appendicitis in the elderly	76
+acute arterial embolism	77
+acute arterial embolism in the elderly	78
+acute back sprain	79
+acute balanitis	80
+acute biliary pancreatitis	81
+acute bronchiolitis	82
+acute bronchitis in children	83
+acute calculous cholecystitis	84
+acute catarrhal conjunctivitis	85
+acute cavernous sinus thrombosis	86
+acute cellulitis	87
+acute cellulitis of vulva	88
+acute cervical disc herniation	89
+acute cervicitis	90
+acute cholangitis	91
+acute cholecystitis	92
+acute cholecystitis and cholangitis in children	93
+acute cholecystitis in children	94
+acute concomitant strabismus	95
+acute cor pulmonale	96
+acute corrosive gastritis	97
+acute cystitis	98
+acute dacryocystitis	99
+acute diarrhea	100
+acute diffuse peritonitis	101
+acute disseminated encephalomyelitis	102
+acute disseminated encephalomyelitis in children	103
+acute ectopic appendicitis	104
+acute empyema	105
+acute endometritis	106
+acute enteritis	107
+acute epididymitis	108
+acute epidural hematoma	109
+acute epiglottitis	110
+acute erosive gastritis	111
+acute fatty liver of pregnancy	112
+acute gastric dilatation	113
+acute gastric mucosal lesions	114
+acute gastritis	115
+acute gastritis in children	116
+acute gastroenteritis	117
+acute glomerulonephritis	118
+acute glomerulonephritis following streptococcal infection	119
+acute glomerulonephritis in children	120
+acute gonorrhea	121
+acute granulocytosis	122
+acute heart failure	123
+acute hematogenous osteomyelitis	124
+acute hemiplegia in children	125
+acute hemorrhagic anemia	126
+acute hemorrhagic conjunctivitis	127
+acute hemorrhagic necrotizing enteritis	128
+acute hemorrhagic necrotizing enterocolitis in children	129
+acute hemorrhagic necrotizing pancreatitis	130
+acute hepatitis c	131
+acute herpes simplex encephalitis	132
+acute hydrogen sulfide poisoning	133
+acute infections in elderly cancer patients	134
+acute infective endocarditis	135
+acute injury of the musculotendon unit	136
+acute intermittent porphyria in children	137
+acute interstitial pneumonia	138
+acute intestinal obstruction	139
+acute invasive pulmonary aspergillosis	140
+acute iridocyclitis	141
+acute lacrimal gland inflammation	142
+acute laryngeal wind	143
+acute laryngitis	144
+acute laryngitis in children	145
+acute laryngotracheobronchitis in children	146
+acute left heart failure in the elderly	147
+acute left-sided heart failure	148
+acute leukemia	149
+acute leukemia in the elderly	150
+acute ligament injury of ankle	151
+acute lingual tonsillitis	152
+acute liver disease	153
+acute lumbar sprain	154
+acute lung abscess	155
+acute lymphadenitis	156
+acute lymphangitis	157
+acute lymphoblastic leukemia	158
+acute lymphoblastic leukemia in children	159
+acute mastitis	160
+acute mesenteric lymphadenitis in children	161
+acute mountain sickness	162
+acute mumps orchitis	163
+acute myelitis	164
+acute myeloid leukemia	165
+acute myeloid leukemia in children	166
+acute myocardial infarction	167
+acute nasopharyngitis	168
+acute nephritic syndrome	169
+acute nephritis	170
+acute non-lymphocytic leukemia in children	171
+acute nonspecific orchitis	172
+acute obstructive suppurative cholangitis	173
+acute orbital cellulitis	174
+acute osteomyelitis of the jaw	175
+acute pancreatitis	176
+acute pancreatitis in children	177
+acute pancreatitis in the elderly	178
+acute pelvic inflammatory disease	179
+acute perforation of gastric and duodenal ulcer	180
+acute perforation of ulcer	181
+acute pericarditis	182
+acute peritonitis	183
+acute pharyngitis	184
+acute pneumonia	185
+acute postinfectious nephritis in the elderly	186
+acute pseudomembranous candidal stomatitis	187
+acute pulmonary edema	188
+acute pulpitis	189
+acute purulent meningitis	190
+acute pyelonephritis	191
+acute radiation thyroiditis	192
+acute renal failure	193
+acute renal failure after burns	194
+acute renal failure during pregnancy	195
+acute renal failure in children	196
+acute renal failure in the elderly	197
+acute respiratory distress syndrome	198
+acute respiratory distress syndrome in children	199
+acute respiratory distress syndrome in the elderly	200
+acute respiratory failure	201
+acute respiratory failure in children	202
+acute rheumatic fever renal damage	203
+acute rhinitis	204
+acute right-sided heart failure	205
+acute septic arthritis	206
+acute simple gastritis	207
+acute simple pharyngitis	208
+acute simple traumatic low back and leg pain	209
+acute soft tissue injury of the neck	210
+acute subdural hematoma	211
+acute submandibular gland inflammation	212
+acute superior mesenteric vein thrombosis	213
+acute suppurative arthritis in children	214
+acute suppurative cholangitis	215
+acute suppurative gastritis	216
+acute suppurative mastitis	217
+acute suppurative mastoiditis	218
+acute suppurative otitis media	219
+acute suppurative parotitis	220
+acute suppurative peritonitis	221
+acute suppurative sinusitis	222
+acute suppurative tenosynovitis	223
+acute suppurative thyroiditis in children	224
+acute tonsillitis	225
+acute toxic encephalitis	226
+acute tracheobronchitis	227
+acute tracheobronchitis in children	228
+acute tubular necrosis	229
+acute tubulointerstitial nephritis	230
+acute upper respiratory tract infection	231
+acute upper respiratory tract infection in children	232
+acute urethritis	233
+acute urticaria	234
+acute vaginitis	235
+acute yellowing	236
+adams-stokes syndrome	237
+adenoids	238
+adenoids hypertrophy	239
+adenolymphoma	240
+adenomyosis	241
+adenomyosis of the gallbladder	242
+adenoviral enteritis	243
+adenovirus pneumonia	244
+adenovirus pneumonia in children	245
+adh hypersecretion syndrome	246
+adhd	247
+adhd in adults	248
+adhesive intestinal obstruction	249
+adhesive intestinal obstruction in children	250
+adhesive otitis media	251
+adnexitis	252
+adolescent periodontitis	253
+adolescent schizophrenia	254
+adrenal crisis	255
+adrenal dysfunction	256
+adrenal incidentaloma	257
+adrenal insufficiency	258
+adrenal insufficiency in children	259
+adrenal medullary hyperfunction	260
+adrenal medullary hyperplasia	261
+adrenocortical insufficiency heart disease	262
+adult chronic myeloid leukemia	263
+adult polycystic kidney disease	264
+adult prurigo	265
+adult respiratory distress syndrome	266
+adult still's disease	267
+adult t-cell leukemia	268
+adult-onset chronic myeloid leukemia in children	269
+adult-onset gynecomastia	270
+adzuki bean	271
+aerobacterium enteritis	272
+aeromonas hydrophila enteritis	273
+aeromonas pneumonia	274
+affective disorders	275
+affective mood disorders	276
+afferent loop syndrome	277
+aflatoxin poisoning	278
+after-cataract	279
+age spots	280
+age-related cataracts	281
+age-related macular degeneration	282
+aggressive infantile fibromatosis	283
+agranulocytic pharyngitis	284
+ahom disease	285
+aids	286
+aids-related neurological damage	287
+air conditioning disease	288
+akagi	289
+albinism	290
+alcaligenes pneumonia	291
+alcohol swelling	292
+alcohol withdrawal syndrome	293
+alcohol-induced mental disorders	294
+alcohol-related psychiatric disorders	295
+alcoholic amblyopia	296
+alcoholic brain atrophy	297
+alcoholic cardiomyopathy	298
+alcoholic cerebellar degeneration	299
+alcoholic cirrhosis	300
+alcoholic dementia	301
+alcoholic heart disease in the elderly	302
+alcoholic liver disease	303
+alcoholic myopathy	304
+alcoholic neurological disease	305
+alcoholism	306
+alfalfa	307
+alkali poisoning	308
+alkaptonuria and ochrochromia	309
+allergic acute tubulointerstitial nephritis	310
+allergic asthma	311
+allergic bronchitis in children	312
+allergic colon disease	313
+allergic conjunctivitis	314
+allergic cutaneous nodular vasculitis	315
+allergic cutaneous vasculitis	316
+allergic dermatitis	317
+allergic dermatitis - tests	318
+allergic eczema	319
+allergic pharyngitis	320
+allergic purpura in children	321
+allergic rhinitis	322
+allergic rhinitis in children	323
+allergic skin diseases	324
+allergic stomatitis	325
+allergic subsepsis syndrome in children	326
+allergic urticaria	327
+allergic vaginitis	328
+allergic vasculitis	329
+allergies in children	330
+almond	331
+alopecia areata	332
+alpha 1 antitrypsin deficiency liver disease	333
+alpha 1-antitrypsin deficiency in children	334
+alpha 1-antitrypsin deficiency panniculitis	335
+alpha-1 antitrypsin deficiency	336
+alpha-storage pool disease	337
+alpha-thalassemia in children	338
+alstrom syndrome in children	339
+altitude acclimatization syndrome	340
+aluminum bone disease	341
+aluminum pneumoconiosis	342
+alveolar carcinoma	343
+alveolar soft tissue sarcoma	344
+alzheimer's disease	345
+alzheimer's disease dementia	346
+amaranth (purple)	347
+amblyopia in children	348
+amebiasis	349
+amebiasis intestinal perforation	350
+amebic cervicitis	351
+amebic colitis	352
+amebic dysentery	353
+amebic liver abscess	354
+amebic vaginitis	355
+ameloblastoma of jaw	356
+ameloblastoma of long bones	357
+amelogenesis imperfecta	358
+amenorrhea	359
+amenorrhea galactorrhea syndrome	360
+amenorrhea headache	361
+amino acid metabolism disorders	362
+aminoaciduria	363
+ammonia poisoning	364
+amniotic fluid embolism	365
+amphetamine poisoning	366
+amsterdam dwarfism in children	367
+amyloid accumulation in the heart	368
+amyloidosis	369
+amyloidosis in children	370
+amyotrophic lateral sclerosis	371
+anaerobic infections	372
+anaerobic intestinal infection	373
+anaerobic pneumonia	374
+anagen hair loss	375
+anal atresia	376
+anal canal cancer	377
+anal canal, rectum, colon stenosis	378
+anal condyloma acuminatum	379
+anal fissure	380
+anal fistula	381
+anal incontinence	382
+anal itching	383
+anal papillitis	384
+anal papilloma	385
+anal polyps	386
+anal sinusitis	387
+anal trauma	388
+analgesic nephropathy	389
+anaphylactic shock	390
+anastomotic ulcer	391
+androgen insensitivity syndrome in children	392
+androgenetic alopecia in men	393
+anejaculation	394
+anemia	395
+anemia due to acute blood loss	396
+anemia due to excessive hemolysis	397
+anemia due to folic acid deficiency	398
+anemia due to hypothyroidism	399
+anemia due to infectious diseases	400
+anemia due to liver disease	401
+anemia due to malignant tumor	402
+anemia due to vitamin b12 deficiency	403
+anemia of chronic disease	404
+anemia of chronic disease in the elderly	405
+aneurysm	406
+aneurysmal bone cyst	407
+aneurysmal bone cyst in children	408
+angina	409
+angiofibroma	410
+angioimmunoblastic lymphadenopathy	411
+angiolipoma	412
+angioneurotic edema	413
+angioreticuloma	414
+angiosarcoma	415
+angular cheilitis	416
+anhidrosis	417
+anisometropia	418
+anka's nephritis	419
+ankle cartilage injury	420
+ankle fracture	421
+ankle sprain	422
+ankylosing spondylitis	423
+ankylosing spondylitis and associated uveitis	424
+ankylosing spondylitis scleritis	425
+annular pancreas	426
+anorectal abscess	427
+anorectal disease	428
+anorectal diseases	429
+anorexia in adolescence	430
+anorexia in children	431
+anorexia nervosa and bulimia nervosa	432
+anovulatory dysfunctional uterine bleeding	433
+ant bites	434
+anterior achilles tendon bursitis	435
+anterior cruciate ligament injury	436
+anterior dislocation of the atlantoaxial spine with odontoid fracture	437
+anterior hip dislocation	438
+anterior nasal skull base tumor	439
+anterior scalene syndrome	440
+anterior vaginal wall bulge	441
+anthrax	442
+anti-hcvag positive	443
+antral gastritis	444
+anxiety disorders	445
+aortic aneurysm	446
+aortic dissection	447
+aortic insufficiency	448
+aortic regurgitation	449
+aortic stenosis	450
+aortic stenosis with regurgitation	451
+aortic valvular stenosis	452
+aortopulmonary septal defect	453
+aphonia	454
+apical hypertrophic cardiomyopathy	455
+aplastic anemia	456
+aplastic anemia in the elderly	457
+apocrine carcinoma	458
+appendiceal parasitic disease	459
+appendicitis	460
+appendix carcinoid	461
+appendix tumor	462
+apple	463
+arachnoiditis	464
+argentine hemorrhagic fever	465
+armpit odor	466
+arrhythmias	467
+arsenic poisoning in children	468
+arsine-induced hemolytic anemia	469
+arteriohepatic dysplasia syndrome	470
+arteriosclerosis	471
+arteriosclerosis obliterans	472
+arthritis	473
+arthrogryposis syndrome in children	474
+artificial urticaria	475
+asbestosis	476
+ascariasis	477
+ascaris ileus	478
+ascaris ileus in children	479
+ascites	480
+aseptic costochondritis	481
+asperger syndrome	482
+asperger's syndrome	483
+aspergillosis	484
+aspiration pneumonia	485
+aspiration pneumonia in the elderly	486
+aspirin intolerance triad	487
+aspirin-induced asthma	488
+asthma	489
+asthma during pregnancy	490
+asthma in children	491
+asthmatic amyotrophic syndrome in children	492
+asthmatic bronchitis	493
+asthmatic bronchitis in children	494
+astigmatism	495
+astrocytoma	496
+asymmetric stature-short stature-dyssexual development syndrome in children	497
+asymptomatic cerebral infarction	498
+ataxia	499
+ataxia-telangiectasia syndrome	500
+atelectasis in children	501
+atherosclerosis	502
+atherosclerotic occlusive disease	503
+athetosis	504
+athlete's foot	505
+atlantoaxial dislocation	506
+atlas fracture dislocation	507
+atopic dermatitis	508
+atrial escape beats and atrial escape rhythm	509
+atrial fibrillation	510
+atrial fibrillation in children	511
+atrial flutter in children	512
+atrial flutter vs atrial fibrillation	513
+atrial hypertrophy	514
+atrial myocardial infarction	515
+atrial septal defect	516
+atrial septal defect in children	517
+atrioventricular block	518
+atrioventricular block in children	519
+atrioventricular canal malformation	520
+atrophic cholecystitis	521
+atrophic gastritis	522
+atrophic pharyngitis	523
+atrophic rhinitis	524
+atropine plant drug poisoning	525
+atropine poisoning in children	526
+attention deficit disorder in children	527
+atypical mycobacterial scleritis	528
+auricularia	529
+austin-type juvenile sulfatide disease	530
+autism	531
+autism in children	532
+autism spectrum disorder	533
+autoimmune cirrhosis	534
+autoimmune hemolytic anemia	535
+autoimmune liver disease	536
+autonomic dysfunction	537
+autonomous hyperfunctioning thyroid adenoma	538
+autosomal dominant cerebellar ataxia in children	539
+autosomal dominant polycystic kidney disease	540
+autosomal recessive cerebellar ataxia in children	541
+autosomal recessive cerebral arteriopathy with leukoencephalopathy	542
+autumn dryness	543
+av junctional premature beat	544
+av syndrome	545
+avian flu	546
+avulsion fracture	547
+avulsion fracture of finger	548
+axenfeld-riegel syndrome	549
+axillary trichophytosis	550
+axis vertebral fracture	551
+azoospermia	552
+babesiosis	553
+bacillary dysentery	554
+bacillary dysentery in children	555
+bacillus difficile enteritis	556
+back carbuncle	557
+bacon	558
+bacon (raw)	559
+bacteremia	560
+bacterial colitis	561
+bacterial corneal ulcer	562
+bacterial enteritis	563
+bacterial infection	564
+bacterial keratitis	565
+bacterial liver abscess	566
+bacterial pericarditis	567
+bacterial pneumonia	568
+bacterial prostatitis	569
+bacterial stomatitis in children	570
+bacterial synergistic gangrene	571
+bacterial vaginosis	572
+bad breath	573
+baking powder	574
+baking soda	575
+balanitis	576
+balantidium spp.	577
+baldness	578
+bamboo shoots	579
+banana	580
+barber's dermatitis	581
+barium poisoning	582
+barotrauma	583
+barotraumatic otitis media	584
+barrett syndrome	585
+barrett's esophagus	586
+bartholin's gland abscess	587
+bartholin's gland cancer	588
+bartholin's gland cyst	589
+bartholinitis	590
+barton fracture	591
+bartonellosis	592
+bartter syndrome	593
+bartter syndrome in children	594
+basal cell adenoma	595
+basal cell carcinoma	596
+basal cell carcinoma of the vulva	597
+basal cell tumor	598
+basal ganglia hematoma	599
+base of skull fracture	600
+basic calcium phosphate crystal deposition disease	601
+basophilia	602
+bazin's erythema	603
+beaded red moss	604
+bean curd sticks	605
+bedsores	606
+bedsores in the elderly	607
+bee stings	608
+beef (fat or lean)	609
+beef (lean)	610
+beer	611
+beetroot	612
+behcet disease	613
+behcet's disease in children	614
+behcet's scleritis	615
+behçet disease	616
+behçet syndrome	617
+benign bile duct stricture	618
+benign brain tumor	619
+benign congenital myotonia syndrome	620
+benign fibrous histiocytoma	621
+benign fibrous histiocytoma of bone	622
+benign gallbladder tumor	623
+benign gastric tumor	624
+benign hydatidiform mole	625
+benign intracranial hypertension	626
+benign lipoblastoma	627
+benign lung tumors	628
+benign lymphocytic vasculitis and granulomatous diseases	629
+benign nail tumor	630
+benign paroxysmal peritonitis syndrome	631
+benign prostatic hyperplasia	632
+benign spleen tumor	633
+benign tumors	634
+benign vaginal tumors	635
+benzene poisoning	636
+beriberi	637
+beriberi heart disease	638
+berkeley-weiss syndrome	639
+beta thalassemia in children	640
+beta-receptor hyperactivity	641
+bi syndrome	642
+bidirectional ventricular tachycardia	643
+bifascicular block	644
+bilateral bundle branch block	645
+bilateral cervical facet joint dislocation	646
+bilateral congenital adrenal hyperplasia	647
+bilateral renal agenesis	648
+bilateral superior oblique muscle palsy	649
+bile duct stones	650
+bile duct stones and cholangitis	651
+bile peritonitis	652
+bile reflux gastritis	653
+bile reflux gastritis after gastrectomy	654
+bile tract bleeding	655
+biliary acute pancreatitis	656
+biliary ascariasis	657
+biliary ascariasis and hepatic ascariasis	658
+biliary ascariasis in children	659
+biliary cirrhosis	660
+biliary clonorchiasis	661
+biliary dilatation	662
+biliary dyskinesia	663
+biliary dyskinetic syndrome	664
+biliary hypotonia syndrome	665
+biliary tract cancer	666
+bimaxillary protrusion	667
+binswanger disease	668
+bird's nest	669
+birdshot retinochoroidopathy	670
+birthmark	671
+bisexuality	672
+bismuth poisoning	673
+bitter summer	674
+black beans	675
+black bulla pruritus	676
+black rice	677
+black sesame	678
+blackheads, acne, moles	679
+bladder adenocarcinoma	680
+bladder agenesis and hypoplasia	681
+bladder and urethral stones	682
+bladder cancer	683
+bladder cancer in the elderly	684
+bladder cough	685
+bladder cyst	686
+bladder diverticulum	687
+bladder exstrophy	688
+bladder fistula	689
+bladder injury	690
+bladder leiomyoma	691
+bladder leiomyosarcoma	692
+bladder neck obstruction in elderly women	693
+bladder pain	694
+bladder prolapse	695
+bladder squamous cell carcinoma	696
+bladder stones	697
+bladder tuberculosis	698
+blast-induced hearing loss	699
+blastomyces dermatitidis	700
+blastomycosis-like pyoderma	701
+bleeding disorders	702
+bleeding gastric and duodenal ulcers	703
+bleeding gastric ulcer	704
+blepharitis	705
+blind loop syndrome	706
+bloating	707
+blocked fallopian tubes	708
+blood deficiency dizziness	709
+blood deficiency headache	710
+blood disorders	711
+blood in the stool	712
+blood poison	713
+blood pressure disease	714
+blood vessel damage	715
+blood vessel injury in the hand	716
+blue eardrum and cholesterol granuloma	717
+blue nevus	718
+blue rubber bleb nevus syndrome	719
+blunt cardiac injury	720
+blunt trauma	721
+blunt trauma to the larynx	722
+blushing and erythrophobia	723
+body odor	724
+bone and joint syphilis	725
+bone and joint tuberculosis	726
+bone canal dystocia	727
+bone cancer	728
+bone cyst	729
+bone disease	730
+bone fragility sclerosis	731
+bone hemangioendothelioma	732
+bone hemangioma	733
+bone hyperplasia	734
+bone schwannoma	735
+bone tuberculosis	736
+bone tumors	737
+borderline ovarian tumor	738
+boric acid poisoning	739
+botrytis cinerea	740
+botrytis cinerea of bladder	741
+botulism	742
+bowel cancer	743
+bowen's disease	744
+bowenoid papulosis	745
+brachial plexus injury	746
+brachial plexus pain	747
+bradycardia	748
+brain abscess	749
+brain abscess in children	750
+brain arteriovenous malformation	751
+brain atrophy	752
+brain cancer	753
+brain contusion	754
+brain contusion in children	755
+brain cyst	756
+brain dysplasia	757
+brain edema	758
+brain glioma	759
+brain herniation	760
+brain injury	761
+brain stem infarction	762
+brain stem injury	763
+brain stem tumors	764
+brain tuberculoma	765
+brain tumor	766
+brainstem glioma	767
+branchial cleft fistula	768
+brazilian purple fever	769
+breast adenosis	770
+breast cancer	771
+breast cancer in the elderly	772
+breast cancer sarcoma	773
+breast cancer skin metastasis	774
+breast cysts	775
+breast disease	776
+breast fibroadenoma	777
+breast fibroids	778
+breast fibrosarcoma	779
+breast hyperplasia	780
+breast liposarcoma	781
+breast lumps	782
+breast nodules	783
+breast nodules - tests	784
+breast pain	785
+breast tuberculosis	786
+breast tumors	787
+breastfeeding	788
+breath-holding spells in children	789
+breech presentation	790
+brenneman syndrome	791
+brittle nail disease	792
+broccoli	793
+bromhidrosis	794
+bromine poisoning	795
+bronchial asthma	796
+bronchial asthma in children	797
+bronchial asthma in the elderly	798
+bronchial disease	799
+bronchiectasis	800
+bronchiectasis in the elderly	801
+bronchiolitis in children	802
+bronchitis	803
+bronchitis in children	804
+broncholithiasis	805
+bronchopneumonia	806
+bronchopneumonia in children	807
+brown sugar	808
+brucella erythema	809
+brucella pneumonia	810
+brucellosis	811
+brussels sprouts	812
+bubular keratoconjunctivitis	813
+buccal space infection	814
+budd-chiari syndrome	815
+budd-chiari syndrome in children	816
+budd-kahl syndrome	817
+build up	818
+bulbar palsy	819
+bulimia nervosa in children	820
+bullae	821
+bullous distal dactylitis	822
+bullous keratopathy	823
+bullous myringitis	824
+bullous pemphigoid	825
+bundle branch reentrant ventricular tachycardia	826
+bunions	827
+burkholderia pseudomallei pneumonia	828
+burn	829
+burn infection	830
+burn shock	831
+burning neuralgia	832
+burning pain	833
+burns in children	834
+bursitis	835
+c pancreatic islet function β-cell tumor	836
+c5 insufficiency syndrome	837
+cabbage	838
+calcaneal osteomyelitis	839
+calcaneus fracture	840
+calcific tendinitis	841
+calcification of thyroid nodules	842
+calculous cholecystitis	843
+calicivirus gastroenteritis	844
+campylobacter enteritis	845
+campylobacter jejuni enteritis	846
+cancer	847
+cancer pain	848
+cancer-related mental disorders	849
+cancerous arthritis	850
+cancerous neuromyopathy	851
+candida vaginitis	852
+candidal balanitis	853
+candidal balanitis - tests	854
+candidiasis	855
+canned dace	856
+capillary lymphangioma	857
+capillary or venous thrombosis	858
+carambola	859
+carbamate pesticide poisoning	860
+carbon disulfide poisoning	861
+carbon monoxide poisoning	862
+carbon monoxide poisoning in children	863
+carbuncle	864
+carcinoid	865
+carcinoid syndrome	866
+carcinoma in situ	867
+cardiac arrest and cardiopulmonary cerebral resuscitation	868
+cardiac asthma	869
+cardiac cancer	870
+cardiac inflammation	871
+cardiac mucosal tear syndrome	872
+cardiac myxoma	873
+cardiac neurosis	874
+cardiac rhabdomyomas	875
+cardiogenic cirrhosis	876
+cardiogenic shock	877
+cardiomyopathy	878
+cardiopulmonary resuscitation and cardiac arrest in children	879
+cardiovascular and cerebrovascular diseases	880
+cardiovascular and thromboembolic syndromes	881
+cardiovascular disease	882
+carotid cavernous fistula	883
+carp	884
+carpal tunnel syndrome	885
+carrot	886
+carrots	887
+caseous sinusitis	888
+cashew	889
+castleman disease	890
+castor bean poisoning	891
+cat meat	892
+cat scratch disease	893
+cataract	894
+catfish	895
+cauliflower	896
+cavernous hemangioma	897
+cavernous lymphangioma	898
+cavernous transformation of portal vein	899
+cavitary tuberculosis	900
+cd30-positive cutaneous t-cell lymphoma	901
+cecal amoebic granuloma	902
+cecal granuloma	903
+cecal volvulus	904
+celery	905
+celery leaves	906
+celiac artery syndrome	907
+celiac disease in children	908
+cellulitis	909
+centipede stings	910
+central chondrosarcoma	911
+central nervous system lymphoma	912
+central nervous system stimulant poisoning	913
+central pontine myelinolysis	914
+central serous chorioretinopathy	915
+cerebellar atrophy	916
+cerebellar infarction	917
+cerebellar tonsillar herniation	918
+cerebral arteriosclerosis	919
+cerebral embolism	920
+cerebral embolism in the elderly	921
+cerebral hemorrhage	922
+cerebral hemorrhage in the elderly	923
+cerebral infarction	924
+cerebral infarction in young and middle-aged people	925
+cerebral malaria	926
+cerebral palsy	927
+cerebral palsy in children	928
+cerebral paragonimiasis	929
+cerebral schistosomiasis	930
+cerebral thrombosis	931
+cerebral thrombosis in the elderly	932
+cerebral toxoplasmosis	933
+cerebral tuberculosis	934
+cerebral vascular sclerosis	935
+cerebrocardiac syndrome in the elderly	936
+cerebrospinal fluid leak	937
+cerebrovascular disease	938
+cerebrovascular malformations	939
+cerebrovascular malformations in children	940
+cerumen embolism	941
+cervical adenocarcinoma	942
+cervical cancer	943
+cervical cancer in teenagers and young sons	944
+cervical disc herniation	945
+cervical disease	946
+cervical ectropion	947
+cervical erosion	948
+cervical fibroma	949
+cervical fracture dislocation	950
+cervical fracture with dislocation	951
+cervical fracture-dislocation without spinal cord injury	952
+cervical leiomyoma	953
+cervical lumbar syndrome	954
+cervical lymph node tuberculosis	955
+cervical polyps	956
+cervical precancerous lesions	957
+cervical radiculopathy	958
+cervical rib syndrome	959
+cervical spinal stenosis	960
+cervical spondylosis	961
+cervical spondylotic myelopathy	962
+cervical stump cancer	963
+cervical subluxation	964
+cervical tuberculosis	965
+cervical vertigo in the elderly	966
+cervicitis	967
+chalazion	968
+chance fracture	969
+chancroid	970
+chancroid pyoderma	971
+chapped hands and feet	972
+chapped sores	973
+charcot-marie-tooth disease	974
+cheese	975
+cheesy rhinitis	976
+cheilitis	977
+chemical bronchitis	978
+chemical burns	979
+chemical eye injury	980
+chemical liquid inhalation	981
+cherry tomatoes	982
+chest congestion syndrome	983
+chest deformity	984
+chest wall phlebitis	985
+chest wall soft tissue injury	986
+chest wall tuberculosis	987
+chestnuts (cooked)	988
+chestnuts (fresh)	989
+chibaiyoufeng	990
+chicken	991
+chicken blood	992
+chicken breast	993
+chicken feet	994
+chicken gizzard lining	995
+chicken gizzards	996
+chicken heart	997
+chicken intestines	998
+chicken liver	999
+chicken pox	1000
+chicken skeleton	1001
+chicken wings	1002
+chigger dermatitis	1003
+childbirth	1004
+childhood epilepsy	1005
+childhood mental disorders and mental retardation	1006
+childhood mood disorders	1007
+children with learning disabilities	1008
+children's cerebral hemisphere glioma	1009
+children's cold	1010
+chili pepper (green, pointed)	1011
+chili pepper (red, pointed, dry)	1012
+chills and fever	1013
+chinese cabbage	1014
+chinese cabbage (mussels)	1015
+chinese cabbage (small white cabbage)	1016
+chinese cabbage (white stem)	1017
+chinese chives	1018
+chive flowers	1019
+chives	1020
+chiyoudan	1021
+chlamydia infection	1022
+chlamydia pneumoniae infection	1023
+chlamydia pneumoniae pneumonia	1024
+chlamydial lymphogranuloma	1025
+chlamydial pneumonia	1026
+chlamydial pneumonia in children	1027
+chlamydial urinary tract infection	1028
+chlorhexidine poisoning	1029
+chlorine poisoning	1030
+chloroquine poisoning	1031
+chlorpromazine poisoning	1032
+chocolate cyst	1033
+cholangiocarcinoma	1034
+cholangitis	1035
+cholecystitis	1036
+cholecystitis in the elderly	1037
+cholelithiasis	1038
+cholelithiasis in the elderly	1039
+cholera	1040
+cholestatic hepatitis	1041
+cholestatic jaundice	1042
+cholesterol empyema	1043
+cholesterol pneumonia	1044
+cholesterolosis of the gallbladder	1045
+cholinergic urticaria	1046
+chondroblastoma	1047
+chondrodysplasia	1048
+chondroid syringoma	1049
+chondroma	1050
+chondromalacia patella	1051
+chondromyxoid fibroma	1052
+chondrosarcoma	1053
+chordoma	1054
+chorea	1055
+chorea of pregnancy	1056
+choriocarcinoma	1057
+choroid plexus papilloma	1058
+choroid plexus papilloma in children	1059
+choroidal atrophy in degenerative myopia	1060
+choroidal detachment	1061
+choroidal detachment retinal detachment	1062
+choroidal hemangioma	1063
+choroidal hemorrhage	1064
+choroidal laceration	1065
+choroidal melanoma	1066
+choroidal neovascularization	1067
+choroidal osteoma	1068
+choroideremia	1069
+choroiditis	1070
+chromoblastomycosis and phaeohyphomycosis	1071
+chromophoria	1072
+chromosomal abnormalities	1073
+chronic	1074
+chronic adrenocortical insufficiency	1075
+chronic alcoholism	1076
+chronic amoebic dysentery	1077
+chronic amoebic enteritis	1078
+chronic angle-closure glaucoma	1079
+chronic apical periodontitis	1080
+chronic appendicitis	1081
+chronic autoimmune thyroiditis	1082
+chronic back pain	1083
+chronic bacterial prostatitis	1084
+chronic benign neutropenia in children	1085
+chronic bronchitis	1086
+chronic bronchitis in children	1087
+chronic bronchitis in the elderly	1088
+chronic bullous diseases in children	1089
+chronic catarrhal conjunctivitis	1090
+chronic cervicitis	1091
+chronic cholangitis	1092
+chronic cholecystitis	1093
+chronic colitis	1094
+chronic congestive splenomegaly in children	1095
+chronic constrictive pericarditis	1096
+chronic cor pulmonale	1097
+chronic cough	1098
+chronic cystitis	1099
+chronic dacryocystitis	1100
+chronic diarrhea	1101
+chronic dry rhinitis	1102
+chronic empyema	1103
+chronic endometritis	1104
+chronic enteritis	1105
+chronic eosinophilic pneumonia	1106
+chronic epididymitis	1107
+chronic epidural hematoma	1108
+chronic ethmoid sinusitis	1109
+chronic fatigue syndrome	1110
+chronic frontal sinusitis	1111
+chronic gastritis	1112
+chronic gastritis in children	1113
+chronic gastritis in the elderly	1114
+chronic glomerulonephritis	1115
+chronic glomerulonephritis in children	1116
+chronic granulomatous disease	1117
+chronic granulomatous disease in children	1118
+chronic heart failure	1119
+chronic hematogenous osteomyelitis	1120
+chronic hepatitis	1121
+chronic hypertrophic rhinitis	1122
+chronic lacrimal gland inflammation	1123
+chronic laryngitis	1124
+chronic lead poisoning	1125
+chronic lingual tonsillitis	1126
+chronic liver disease	1127
+chronic lumbar strain	1128
+chronic lymphadenitis	1129
+chronic lymphocytic leukemia	1130
+chronic lymphocytic thyroiditis	1131
+chronic lymphocytic thyroiditis in children	1132
+chronic malaria	1133
+chronic mastitis	1134
+chronic maxillary sinusitis	1135
+chronic mediastinitis	1136
+chronic mucocutaneous candidiasis	1137
+chronic myeloid leukemia	1138
+chronic myeloid leukemia in children	1139
+chronic myelomonocytic leukemia	1140
+chronic nasopharyngitis	1141
+chronic nephritis	1142
+chronic nonatrophic gastritis	1143
+chronic obstructive pulmonary disease	1144
+chronic osteomyelitis	1145
+chronic osteomyelitis in children	1146
+chronic pancreatitis	1147
+chronic pancreatitis in children	1148
+chronic pancreatitis of gallbladder origin	1149
+chronic papillary ulcerative pyoderma	1150
+chronic pelvic inflammatory disease	1151
+chronic pelvic pain	1152
+chronic pericarditis	1153
+chronic pharyngitis	1154
+chronic pneumonia	1155
+chronic pneumonia in children	1156
+chronic progressive chorea	1157
+chronic pyelonephritis	1158
+chronic pyelonephritis in the elderly	1159
+chronic renal anemia	1160
+chronic renal failure	1161
+chronic renal failure in children	1162
+chronic renal failure in the elderly	1163
+chronic respiratory failure	1164
+chronic rhinitis	1165
+chronic salpingo-oophoritis	1166
+chronic simple pharyngitis	1167
+chronic simple rhinitis	1168
+chronic simple traumatic low back and leg pain	1169
+chronic soft tissue injury of the neck	1170
+chronic sphenoid sinusitis	1171
+chronic spleen wind	1172
+chronic spontaneous atrial tachycardia	1173
+chronic strain-induced low back pain	1174
+chronic subdural hematoma	1175
+chronic subdural hematoma in children	1176
+chronic subdural hematoma in the elderly	1177
+chronic suppurative osteomyelitis	1178
+chronic suppurative otitis media	1179
+chronic suppurative parotitis	1180
+chronic suppurative pleurisy	1181
+chronic suppurative sinusitis	1182
+chronic tonsillitis	1183
+chronic traumatic bursitis	1184
+chronic ulcerative colitis	1185
+chronic ulcerative nongranulomatous jejunoileitis	1186
+chronic urticaria	1187
+chronic viral hepatitis	1188
+chrysanthemum	1189
+chylous ascites	1190
+cicatricial pemphigoid	1191
+cinnamon	1192
+cirrhosis	1193
+cirrhosis ascites	1194
+cirrhosis of the liver in the elderly	1195
+clams	1196
+claustrophobia	1197
+clavicle fracture	1198
+clear cell carcinoma of the vagina in adolescents and children	1199
+cleft lip	1200
+cleft lip and palate	1201
+cloacal eversion	1202
+closed head injury	1203
+closed pneumothorax	1204
+closed spinal cord injury	1205
+clostridium difficile wound infection	1206
+closure injury of trachea	1207
+cluster headaches	1208
+coal worker pneumoconiosis	1209
+coccygeal plexus pain	1210
+cod	1211
+coffee	1212
+cold	1213
+cold abscess of spinal tuberculosis penetrating into hollow organs	1214
+cold and dampness obstruct the spleen	1215
+cold antibody autoimmune hemolytic anemia	1216
+cold arthritis	1217
+cold cough	1218
+cold drink cough	1219
+cold headache	1220
+cold sores	1221
+cold stagnation liver pulse syndrome	1222
+cold urticaria	1223
+cold uterus	1224
+cold vomiting	1225
+cold-damp diarrhea	1226
+colitis	1227
+collateral ligament injury of the knee	1228
+colloid milia	1229
+colon adenocarcinoma	1230
+colon cancer	1231
+colon damage	1232
+colon lipoma	1233
+colon polyps	1234
+colon polyps and polyposis	1235
+colon rupture	1236
+colon volvulus	1237
+colonic atresia	1238
+colonic carcinoid	1239
+colonic fistula	1240
+colonic leiomyoma	1241
+colonic vascular ectasia	1242
+color blindness	1243
+colorectal adenoma	1244
+colorectal cancer	1245
+colorectal cancer in the elderly	1246
+colorectal carcinoid	1247
+colorectal injury	1248
+colorectal leiomyosarcoma	1249
+colorectal lipoma	1250
+coma	1251
+combined acid-base imbalance	1252
+combined valvular disease	1253
+comedonal nevus	1254
+comminuted fracture	1255
+common bile duct stones	1256
+common peroneal nerve injury	1257
+common vomiting in children	1258
+common warts	1259
+community-acquired pneumonia	1260
+compartment syndrome	1261
+compensatory hyperhidrosis	1262
+complete atrioventricular block	1263
+complete miscarriage	1264
+complications of birth control surgery	1265
+complications of cataract	1266
+compressive optic neuropathy	1267
+concentrated bile syndrome	1268
+conch	1269
+concomitant exotropia	1270
+concomitant strabismus	1271
+concussion	1272
+conductive hearing loss	1273
+conductive tinnitus	1274
+confluent reticular papillomatosis	1275
+congenital absence of fibula	1276
+congenital absence of the ulna	1277
+congenital absence of vagina	1278
+congenital absence or defect of pericardium	1279
+congenital absence, atresia and stenosis of the duodenum	1280
+congenital accessory navicular bone	1281
+congenital adrenal hyperplasia	1282
+congenital adrenal hyperplasia in children	1283
+congenital anal malformation of the rectum in children	1284
+congenital angiotrophic poikiloderma	1285
+congenital annular band	1286
+congenital anorectal malformation	1287
+congenital anorectal stenosis	1288
+congenital aortic arch malformation	1289
+congenital aortic stenosis in children	1290
+congenital aplastic anemia	1291
+congenital arteriovenous fistula	1292
+congenital atransferrinemia	1293
+congenital bladder neck contracture	1294
+congenital bronchogenic cyst	1295
+congenital bronchopulmonary cyst	1296
+congenital bullous ichthyosis erythroderma	1297
+congenital cataract	1298
+congenital cervical odontoid deformity	1299
+congenital choledochal cyst	1300
+congenital choledochal cyst in children	1301
+congenital clubfoot	1302
+congenital coarctation of the aorta	1303
+congenital colonic stenosis and atresia	1304
+congenital coronary artery fistula	1305
+congenital cystic adenoid malformation	1306
+congenital cystic dilatation of bile duct	1307
+congenital cystic dilatation of intrahepatic bile duct	1308
+congenital deafness	1309
+congenital defect of diaphragm	1310
+congenital diaphragmatic hernia	1311
+congenital diseases of the nervous system	1312
+congenital dislocation of the hip in adults	1313
+congenital dislocation of the knee	1314
+congenital distal radioulnar joint subluxation	1315
+congenital dwarfism and dementia syndrome	1316
+congenital dyserythropoietic anemia	1317
+congenital dyserythropoietic anemia in children	1318
+congenital dysplasia of abdominal wall muscles	1319
+congenital esophageal diverticulum	1320
+congenital esophageal duplication	1321
+congenital esophageal stenosis	1322
+congenital gastric outlet obstruction	1323
+congenital giant cell inclusion disease	1324
+congenital glaucoma	1325
+congenital hallux valgus	1326
+congenital hallux valgus foot	1327
+congenital heart disease	1328
+congenital hemangioma	1329
+congenital hemifacial diplegia syndrome	1330
+congenital hemihypertrophy	1331
+congenital hepatic cysts in children	1332
+congenital hepatic fibrosis	1333
+congenital hiatal hernia	1334
+congenital high arch foot	1335
+congenital high scapula	1336
+congenital hip abduction contracture and pelvic tilt	1337
+congenital hip varus	1338
+congenital hydrocephalus	1339
+congenital hyperammonemia in children	1340
+congenital hypothyroidism in children	1341
+congenital intestinal atresia	1342
+congenital intestinal atresia and intestinal stenosis	1343
+congenital laryngeal cleft	1344
+congenital laryngeal stridor	1345
+congenital leukemia	1346
+congenital liver cyst	1347
+congenital long colon	1348
+congenital lung cysts	1349
+congenital lung cysts in children	1350
+congenital malformation of the brain	1351
+congenital malrotation of the intestine	1352
+congenital megaureter	1353
+congenital megaurethra	1354
+congenital metatarsal adduction	1355
+congenital microphthalmia with orbital cyst	1356
+congenital mitral valve malformation	1357
+congenital muscular torticollis	1358
+congenital myasthenia	1359
+congenital nasal dermoid cysts and fistulas	1360
+congenital nasopharyngeal stenosis and atresia	1361
+congenital nephrotic syndrome in children	1362
+congenital non-hemolytic jaundice	1363
+congenital nystagmus	1364
+congenital ovarian dysgenesis	1365
+congenital ovarian hypoplasia in children	1366
+congenital pangammaglobulinemia	1367
+congenital photosensitivity porphyria in children	1368
+congenital premature graying of hair	1369
+congenital pulmonary arteriovenous fistula	1370
+congenital pulmonary hypoplasia	1371
+congenital pure red cell aplasia	1372
+congenital radioulnar junction	1373
+congenital rectal fistula	1374
+congenital red cell membrane disease	1375
+congenital retinoschisis	1376
+congenital retrosternal diaphragmatic hernia	1377
+congenital rubella	1378
+congenital ruptured aortic sinus aneurysm	1379
+congenital scoliosis	1380
+congenital sensory neuropathy	1381
+congenital sex-linked agammaglobulinemia	1382
+congenital short colon	1383
+congenital small larynx	1384
+congenital stenosis of the duodenum	1385
+congenital subaortic stenosis	1386
+congenital subglottic stenosis	1387
+congenital supravalvular aortic stenosis	1388
+congenital syphilis	1389
+congenital syphilitic cirrhosis	1390
+congenital testicular dysgenesis	1391
+congenital testicular dysgenesis in children	1392
+congenital thymic hypoplasia	1393
+congenital torticollis	1394
+congenital torticollis in children	1395
+congenital tumors	1396
+congenital venous malformation limb hypertrophy syndrome	1397
+congenital vertebral deformity	1398
+congenital vertical talus	1399
+congenitally short esophagus	1400
+congestive heart failure	1401
+congestive heart failure in children	1402
+congestive splenomegaly	1403
+conjunctival hyperemia	1404
+conjunctival tuberculosis	1405
+conjunctivitis	1406
+conjunctivitis sicca	1407
+connective tissue enteritis	1408
+constant exotropia	1409
+constipate	1410
+constipation in children	1411
+constipation in the elderly	1412
+constipation-related colitis	1413
+constrictive pericarditis	1414
+contact dermatitis	1415
+contact urticaria	1416
+contralateral hydronephrosis of renal tuberculosis	1417
+convexity meningioma	1418
+convoluted linear ichthyosis	1419
+convulsions	1420
+cool and dry	1421
+cor pulmonale	1422
+cor pulmonale in the elderly	1423
+coramine poisoning	1424
+coriander	1425
+corn	1426
+corn (fresh)	1427
+corneal abrasion	1428
+corneal damage	1429
+corneal disease	1430
+corneal staphyloma	1431
+cornmeal (yellow)	1432
+coronary artery disease	1433
+coronary heart disease	1434
+corpus luteum atrophy	1435
+corpus luteum hematoma	1436
+corrected transposition of the great arteries	1437
+cortical amnesia	1438
+cortical hyperhidrosis	1439
+cosmetic dermatitis	1440
+cough	1441
+cough asthma	1442
+cough in children	1443
+cowpea	1444
+cowpox	1445
+coxsackie virus rash	1446
+coxsackievirus and echovirus infections	1447
+crab	1448
+crab eye	1449
+crab meat	1450
+crab roe	1451
+cracked nipple	1452
+cracked tooth	1453
+cranial nerve damage	1454
+cranio-clavicular dysplasia	1455
+craniofacial malformation syndrome in children	1456
+craniopharyngioma	1457
+craniopharyngioma in children	1458
+craniosynostosis	1459
+crayfish	1460
+cream	1461
+crohn's disease	1462
+crohn's disease arthritis	1463
+cross-legged affective disorder	1464
+crowded teeth	1465
+crucian carp	1466
+cruciate ligament injury	1467
+crude cottonseed oil poisoning	1468
+cryptorchidism	1469
+cryptorchidism in children	1470
+cryptosporidiosis	1471
+crystal sugar	1472
+crystallin allergic glaucoma	1473
+cubitus valgus deformity	1474
+cubitus varus deformity	1475
+cucumber	1476
+curry	1477
+cushing syndrome	1478
+cutaneous b-cell lymphonodular hyperplasia	1479
+cutaneous candidiasis	1480
+cutaneous endometriosis	1481
+cutaneous leukocytoclastic vasculitis	1482
+cutaneous t-cell lymphoproliferation	1483
+cuttlefish	1484
+cuttlefish (dried)	1485
+cyanosis-clubbing-liver syndrome	1486
+cyst	1487
+cystic breast hyperplasia	1488
+cystic duct syndrome	1489
+cystic fibrosis	1490
+cystic hygroma of the neck	1491
+cystic lymphangioma	1492
+cystic lymphangioma of the neck	1493
+cysticercosis	1494
+cysticercosis of breast	1495
+cystitis	1496
+cystocele	1497
+cystoid macular edema	1498
+cystosarcoma phyllodes	1499
+cytolysis	1500
+cytomegalovirus disease	1501
+cytomegalovirus pneumonia	1502
+cytosporine nucleus	1503
+dacryocystitis	1504
+damp-heat disease	1505
+damp-heat in liver and spleen	1506
+damp-heat in the large intestine	1507
+damp-heat in the lower abdomen	1508
+dates (dried)	1509
+dates (fresh)	1510
+deaf	1511
+deep chest wall soft tissue infection	1512
+deep impetigo	1513
+deep overbite	1514
+deep vein thrombosis of lower extremities	1515
+deficiency and cold diarrhea	1516
+deficiency of heart and spleen	1517
+deficiency of spleen and kidney	1518
+deformative dystonia in children	1519
+deformity dysphagia	1520
+degenerative hypertrophy of the ligamentum flavum	1521
+degenerative joint disease	1522
+degenerative knee disease	1523
+dehydration	1524
+dehydration in the elderly	1525
+delayed encephalopathy after carbon monoxide poisoning	1526
+delayed puberty	1527
+delayed puberty and sexual immaturity	1528
+delayed puberty in females	1529
+delayed resolution of pneumonia	1530
+delayed sleep phase syndrome	1531
+delayed traumatic intracerebral hematoma	1532
+delirium in the elderly	1533
+delirium syndrome	1534
+delirium syndrome and related diseases	1535
+delta-storage pool disease	1536
+dementia	1537
+dementia syndrome	1538
+demyelination	1539
+dengue	1540
+dengue hemorrhagic fever	1541
+dental calculus	1542
+dental caries	1543
+dental caries in children	1544
+dental disease	1545
+dental fluorosis	1546
+depression	1547
+depression in the elderly	1548
+depressive disorder in the elderly	1549
+depressive neurosis	1550
+dermatitis	1551
+dermatitis herpetiformis	1552
+dermatofibrosarcoma protuberans	1553
+dermatomyositis	1554
+dermatomyositis and polymyositis	1555
+dermoid and epidermoid cysts in oral and maxillofacial area	1556
+dermoid cyst	1557
+dermoid epidermoid cyst	1558
+descending thoracic aorta aneurysm	1559
+desmoplastic trichoepithelioma	1560
+desquamative interstitial pneumonia	1561
+developmental delay	1562
+developmental dislocation of the hip in children	1563
+developmental pelvic anomalies	1564
+deviated nasal septum	1565
+diabetes	1566
+diabetes and high blood pressure	1567
+diabetes heart disease	1568
+diabetes in children	1569
+diabetes in the elderly	1570
+diabetes insipidus	1571
+diabetes insipidus in children	1572
+diabetes with hypoglycemia	1573
+diabetic foot	1574
+diabetic gastroparesis	1575
+diabetic ketoacidosis	1576
+diabetic lactic acidosis	1577
+diabetic nephropathy	1578
+diabetic nephropathy in the elderly	1579
+diabetic peripheral neuropathy	1580
+diabetic retinopathy	1581
+dialysis osteoarthropathy	1582
+diaper rash	1583
+diaphragmatic bulging	1584
+diaphragmatic flutter	1585
+diaphragmatic hernia	1586
+diaphragmatic paralysis	1587
+diarrhea	1588
+diarrhea in children	1589
+diarrhea in infants and young children	1590
+diastolic heart failure	1591
+dieu-la-foy disease	1592
+difficulty swallowing	1593
+diffuse esophageal spasm	1594
+diffuse idiopathic skeletal hyperostosis	1595
+diffuse intramural esophageal diverticula	1596
+diffuse jejunal ulcer	1597
+diffuse malignant mesothelioma	1598
+diffuse mesothelioma	1599
+diffuse otitis externa	1600
+diffuse palmoplantar keratoderma	1601
+diffuse thyroid disease	1602
+digeorge syndrome	1603
+digeorge syndrome in children	1604
+digestive system cancer with hematologic syndrome	1605
+digestive tract duplication	1606
+digitalis poisoning in children	1607
+digoxin poisoning	1608
+dilated cardiomyopathy	1609
+diphacin poisoning	1610
+diphenhydramine poisoning	1611
+diphtheria	1612
+diphtheria myocarditis	1613
+direct inguinal hernia	1614
+direct inguinal hernia (hernia)	1615
+dirty	1616
+discoid lupus erythematosus	1617
+disharmony between the heart and kidney	1618
+dislocation of joints	1619
+disseminated eosinophilic collagenosis	1620
+disseminated intravascular coagulation	1621
+disseminated intravascular coagulation in children	1622
+disseminated lipogranuloma syndrome in children	1623
+disseminated miliary lupus erythematosus	1624
+disseminated recurrent infundibulum folliculitis	1625
+disseminated xanthomas with diabetes insipidus	1626
+dissociative vertical deviation	1627
+distal humeral epiphysis separation	1628
+distal radial epiphysis separation	1629
+distal radioulnar joint dislocation	1630
+distal radius fracture	1631
+distal renal tubular acidosis	1632
+distal renal tubular acidosis in children	1633
+diverticular disease	1634
+diving-induced inner ear injury	1635
+dizziness	1636
+dog liver vegetable	1637
+dog meat	1638
+dohi symmetrical acromelanosis	1639
+donkey meat	1640
+dorsal myofasciitis	1641
+double fracture of radius and ulna	1642
+dried oysters	1643
+dried pickled vegetables	1644
+dried tofu	1645
+dried whitebait	1646
+drooling during menstruation	1647
+drowning	1648
+drowning in children	1649
+drug addiction	1650
+drug allergy	1651
+drug allergy in children	1652
+drug allergy stomatitis	1653
+drug rash	1654
+drug-induced cirrhosis	1655
+drug-induced deafness	1656
+drug-induced dermatitis	1657
+drug-induced dermatitis in children	1658
+drug-induced gastritis	1659
+drug-induced gingival hyperplasia	1660
+drug-induced immune thrombocytopenic purpura	1661
+drug-induced liver disease	1662
+drug-induced lung disease	1663
+drug-induced renal damage in children	1664
+drug-induced respiratory failure	1665
+drug-related immune hemolytic anemia	1666
+drumstick	1667
+dry and cracked hands	1668
+dry mouth syndrome	1669
+duck	1670
+duck blood (white duck)	1671
+duck bones	1672
+duck eggs	1673
+duck feet	1674
+duck gizzard	1675
+duck heart	1676
+duck liver	1677
+duck pancreas	1678
+duck wings	1679
+dumping syndrome	1680
+duodenal diverticulum	1681
+duodenal diverticulum obstructive jaundice syndrome	1682
+duodenal duplication	1683
+duodenal injury	1684
+duodenal stasis	1685
+duodenal ulcer	1686
+duodenitis	1687
+duplication of ureteropelvic malformation	1688
+dust mite allergy	1689
+dust mite allergy asthma	1690
+dwarfism	1691
+dynamic intestinal obstruction in children	1692
+dysentery	1693
+dysfunctional uterine bleeding	1694
+dysfunctional uterine bleeding during menopause	1695
+dysfunctional uterine bleeding during puberty	1696
+dysmenorrhea	1697
+dysphagia caused by vascular malformations	1698
+dysplastic nevus	1699
+dystocia	1700
+dystonia	1701
+dystonia syndrome	1702
+ear abscess	1703
+ear disease	1704
+ear eczema	1705
+ear sores	1706
+ear tuberculosis	1707
+ear, nose and throat trauma	1708
+early breast cancer	1709
+early pregnancy	1710
+early pregnancy reaction	1711
+eastern equine encephalitis	1712
+ebola virus disease	1713
+ebola virus disease in children	1714
+ebstein syndrome	1715
+ecchymosis	1716
+echinococcosis	1717
+echo and coxsackie virus infection in children	1718
+echovirus rash	1719
+eclampsia	1720
+ectopic and dislocated lenses	1721
+ectopic pancreas	1722
+ectopic pregnancy	1723
+ectopic ureteral opening	1724
+ectropion	1725
+eczema	1726
+eczema herpetiformis	1727
+eczematous dermatitis infectious	1728
+edamame	1729
+edwards syndrome in children	1730
+eel	1731
+egg	1732
+egg white	1733
+egg yolk	1734
+eggplant	1735
+ehlers-danlos syndrome	1736
+ehrlichiosis	1737
+ejaculatory dysfunction	1738
+elastic fibroma of back	1739
+elbow ankylosis	1740
+elbow ankylosis and fibrous stiffness	1741
+elbow dislocation	1742
+elbow tuberculosis	1743
+elbow valgus	1744
+elderly cardiomyopathy	1745
+elderly people with long-term illness and bedridden	1746
+elderly valvular heart disease	1747
+electric shock and lightning strike in children	1748
+electrical burns	1749
+electrical injuries	1750
+electrolyte imbalance	1751
+embryonic arrest	1752
+embryonic relic cyst	1753
+emphysema	1754
+emphysema in the elderly	1755
+empty nest syndrome	1756
+empyema in children	1757
+encephalitis	1758
+encephalocele and meningocele	1759
+encephalopathy	1760
+enchondroma	1761
+endemic cretinism in children	1762
+endemic goiter	1763
+endocardial fibroelastosis	1764
+endocarditis	1765
+endocrine diseases	1766
+endocrine disorders	1767
+endocrine hyperfunction	1768
+endocrine hypertension	1769
+endocrine myopathy	1770
+endodontic disease	1771
+endometrial cancer	1772
+endometrial hyperplasia	1773
+endometrial polyps	1774
+endometrial thickness	1775
+endometriosis	1776
+endometritis	1777
+endophthalmitis	1778
+enophthalmos	1779
+entamoeba histolytica	1780
+enteric gram-negative bacillary meningitis	1781
+enteritis	1782
+enterobacterial pneumonia	1783
+enterobiasis	1784
+enterococcal pneumonia	1785
+enterohemorrhagic escherichia coli infection	1786
+enteroinvasive escherichia coli infection	1787
+enterolithic ileus	1788
+enteropathogenic escherichia coli infection	1789
+enterotoxigenic escherichia coli infection	1790
+enterovirus-induced infections of various systems	1791
+enuresis in children	1792
+eosinophilia	1793
+eosinophilic gastroenteritis	1794
+eosinophilic leukemia	1795
+eosinophilic nonallergic rhinitis	1796
+ependymal tumors	1797
+ephedrine poisoning	1798
+epicanthus	1799
+epidemic hemorrhagic conjunctivitis	1800
+epidemic keratoconjunctivitis	1801
+epidemic typhus	1802
+epidermal cyst	1803
+epidermodysplasia verruciformis	1804
+epidermoid cyst	1805
+epidermolysis bullosa	1806
+epidermolytic acanthoma	1807
+epididymitis	1808
+epidural abscess	1809
+epidural and subdural abscesses	1810
+epilepsy	1811
+epileptic psychiatric disorder	1812
+epiphora	1813
+epiretinal membrane	1814
+episcleritis	1815
+epispadias	1816
+epithelioid cyst	1817
+epithelioid sarcoma	1818
+erectile dysfunction	1819
+erosion corneal ulcer	1820
+erosive gastritis	1821
+erysipelas	1822
+erysipelothrix	1823
+erythema	1824
+erythema infectiosum	1825
+erythema multiforme	1826
+erythema multiforme in children	1827
+erythema multiforme rash	1828
+erythema nodosum	1829
+erythema persevera	1830
+erythematous drug eruption	1831
+erythematous keratosis pilaris	1832
+erythroderma	1833
+erythropoietic porphyria	1834
+escherichia coli enteritis in children	1835
+escherichia coli gastroenteritis	1836
+escherichia coli pneumonia	1837
+esophageal achalasia	1838
+esophageal cancer	1839
+esophageal cancer in the elderly	1840
+esophageal cardia mucosal tear syndrome	1841
+esophageal compression and traction	1842
+esophageal compression dysphagia	1843
+esophageal disease	1844
+esophageal diverticula	1845
+esophageal injury	1846
+esophageal leiomyoma	1847
+esophageal rupture	1848
+esophageal sarcoma	1849
+esophageal scar stricture	1850
+esophageal stricture	1851
+esophageal stromal tumor	1852
+esophageal syphilis	1853
+esophageal ulcer	1854
+esophagitis	1855
+esotropia	1856
+essential hypertension	1857
+essential thrombocythemia	1858
+ethmoid sinus malignancy	1859
+ethmoid sinusitis	1860
+ewing's sarcoma	1861
+excessive tear secretion	1862
+excessive uterine contractions	1863
+exercise-induced amenorrhea	1864
+exercise-induced asthma	1865
+exertional angina	1866
+exfoliation syndrome	1867
+exfoliative cheilitis	1868
+exfoliative dermatitis	1869
+exfoliative dermatitis drug eruption	1870
+exhibitionism	1871
+exogenous allergic alveolitis	1872
+exophoria	1873
+exposure keratitis	1874
+external auditory canal cholesteatoma	1875
+external auditory canal furuncle	1876
+external auditory canal papilloma	1877
+external ear eczema	1878
+external hemorrhoids	1879
+extrahepatic bile duct injury	1880
+extraocular muscle trauma	1881
+extrapyramidal damage	1882
+extraskeletal chondrosarcoma	1883
+extroverted autism	1884
+eye burns	1885
+eye disease	1886
+eye movement disorders	1887
+eye stones	1888
+eyeball rupture	1889
+eyelid eczema	1890
+eyelid twitching	1891
+face tour wind	1892
+facial furunculosis	1893
+facial granuloma	1894
+facial nerve injury	1895
+facial neuritis	1896
+facial paralysis	1897
+facial paralysis, swollen lips and fissured tongue syndrome	1898
+facial pyoderma	1899
+facial twitching	1900
+factitious dermatitis	1901
+factitious panniculitis	1902
+fallopian tube cancer triad	1903
+fallopian tube elevation	1904
+fallopian tube inflammation	1905
+fallopian tube malformations	1906
+fallopian tube tumors	1907
+falls in the elderly	1908
+familial colon polyps	1909
+familial polycythemia	1910
+familial progressive hyperpigmentation	1911
+farmer's lung	1912
+fasciitis	1913
+fascioliasis in children	1914
+fat embolism syndrome	1915
+fatal midline granuloma	1916
+fatty liver	1917
+fatty liver in the elderly	1918
+fatty meat	1919
+favism	1920
+fear of shrinkage	1921
+febrile neutrophilic dermatosis	1922
+febrile seizures in children	1923
+fecal incontinence	1924
+fecal incontinence in the elderly	1925
+fecal perforation of colon	1926
+felty syndrome	1927
+female infertility	1928
+female labor jaundice	1929
+female orgasmic dysfunction	1930
+female pseudohermaphroditism	1931
+female urethral cancer	1932
+femoral artery aneurysm	1933
+femoral condyle fracture	1934
+femoral head fracture	1935
+femoral head necrosis	1936
+femoral head necrosis in children	1937
+femoral hernia	1938
+femoral neck fracture	1939
+femoral nerve pain	1940
+femoral shaft fracture	1941
+fennel	1942
+fetal distress	1943
+fetal growth restriction	1944
+fetish	1945
+fever during menstruation	1946
+fever in children	1947
+fever with thrombocytopenia syndrome	1948
+fibroblastic fibroma	1949
+fibrochondral stromal tumor	1950
+fibrofolliculoma	1951
+fibromatosis	1952
+fibromyalgia	1953
+fibromyalgia syndrome	1954
+fibrosarcoma	1955
+fibrosarcoma of bone	1956
+fibrosis syndrome	1957
+fibrous dysplasia of bone	1958
+fibrous dysplasia of the skull	1959
+fifth day syndrome	1960
+fig	1961
+filamentary keratopathy	1962
+filariasis	1963
+filariasis is common	1964
+filiform warts	1965
+finger carbuncle	1966
+finger flexor tenosynovitis	1967
+first degree atrioventricular block	1968
+fish	1969
+fish gall bladder poisoning	1970
+fish liver poisoning	1971
+fish skin	1972
+fissured tongue	1973
+fistula	1974
+five o'clock diarrhea	1975
+fixed drug eruption	1976
+fixed strabismus	1977
+flat face dislocation foot syndrome in children	1978
+flat feet	1979
+flat warts	1980
+flatfoot	1981
+flavobacterium pneumonia	1982
+flexor tendon injury	1983
+flexor tendon injury of hand	1984
+floaters	1985
+flower cataracts fall into the trap	1986
+focal glomerulosclerosis	1987
+foie gras	1988
+folic acid deficiency	1989
+folic acid deficiency neuropathy	1990
+follicle tumor	1991
+follicular cell proliferation syndrome	1992
+follicular cyst	1993
+follicular erythema melanosis of the face and neck	1994
+follicular ichthyosis	1995
+follicular infundibulum tumor	1996
+follicular mucinosis	1997
+follicular pustulosis	1998
+folliculitis	1999
+folliculitis alopecia	2000
+food accumulation in children	2001
+food allergies in children	2002
+food allergy asthma	2003
+food poisoning	2004
+food poisoning in children	2005
+foot and mouth disease	2006
+foot eversion	2007
+foot fractures	2008
+foot-and-mouth disease	2009
+foramen magnum meningioma	2010
+forearm artery injury	2011
+forehead wrinkles	2012
+foreign bodies in small intestine	2013
+foreign bodies in the bladder and urethra	2014
+foreign bodies in the esophagus	2015
+foreign bodies in the esophagus of children	2016
+foreign bodies in the eye	2017
+foreign bodies in the nasal cavity	2018
+foreign bodies in the respiratory tract	2019
+foreign bodies in the stomach	2020
+foreign bodies in the trachea and esophagus	2021
+foreign bodies in trachea and bronchus of children	2022
+foreign body esophageal perforation	2023
+foreign body in the external auditory canal	2024
+foreign body in the rectum	2025
+foreign body injury	2026
+foreign body injury to the eye	2027
+foreskin edema	2028
+foreskin is too long	2029
+formaldehyde poisoning	2030
+fourth ventricle tumor	2031
+fox	2032
+fracture	2033
+fracture of the base of the first metacarpal bone	2034
+fracture of the lower third of the radial shaft combined with dislocation of the distal radioulnar joint	2035
+fracture of the lower third of the ulna combined with dislocation of the distal radioulnar joint	2036
+fragile x	2037
+fragrant rice	2038
+francisella pneumonia	2039
+freckle	2040
+free-living amebic infection	2041
+french beans	2042
+fresh scallops	2043
+frictional lichenoid eruption	2044
+frictional melanosis	2045
+fried	2046
+fried dough sticks	2047
+fried tofu	2048
+frog	2049
+frontal lobe tumor	2050
+frostbite	2051
+frosty dendritic retinal vasculitis	2052
+frozen	2053
+frozen shoulder	2054
+frozen tofu	2055
+fulminant hepatic failure	2056
+fulminant hepatitis-like syndrome	2057
+functional dyspepsia	2058
+functional dyspepsia in children	2059
+functional hypothalamic amenorrhea	2060
+fundus damage in degenerative myopia	2061
+fundus disease	2062
+fungal allergies	2063
+fungal corneal ulcer	2064
+fungal enteritis	2065
+fungal food poisoning	2066
+fungal infection of the external ear canal	2067
+fungal keratitis	2068
+fungal lung infections	2069
+fungal meningitis	2070
+fungal paronychia	2071
+fungal pericarditis	2072
+fungal poisoning	2073
+fungal scleritis	2074
+fungal urethritis	2075
+fungal urinary tract infection	2076
+fungal vaginitis	2077
+fungal vulvitis	2078
+fungus (dried)	2079
+fungus (soaked in water)	2080
+fur seal	2081
+furuncle	2082
+furuncles and furunculosis	2083
+galactorrhea	2084
+galactorrhea-amenorrhea syndrome	2085
+galactosemia	2086
+galactosemia in children	2087
+galeazzi fracture	2088
+gall	2089
+gallbladder cancer	2090
+gallbladder cancer in the elderly	2091
+gallbladder carcinoid	2092
+gallbladder cyst	2093
+gallbladder polypoid lesions	2094
+gallbladder polyps	2095
+gallbladder-colic hepatic flexure adhesion syndrome	2096
+gallstone	2097
+gallstone ileus	2098
+gallstone-induced intestinal obstruction syndrome	2099
+gallstones	2100
+ganglion cyst	2101
+gangrene	2102
+garlic	2103
+garlic greens	2104
+garlic sprouts	2105
+gas and abdominal pain	2106
+gas cystitis	2107
+gas gangrene	2108
+gas poisoning	2109
+gasoline and kerosene poisoning	2110
+gasoline poisoning	2111
+gastric bleeding	2112
+gastric bleeding - tests	2113
+gastric cancer	2114
+gastric cancer in the elderly	2115
+gastric carcinoid tumor	2116
+gastric damage	2117
+gastric diaphragm	2118
+gastric dysrhythmia syndrome	2119
+gastric lipoma	2120
+gastric malignant lymphoma	2121
+gastric mucosal prolapse	2122
+gastric perforation	2123
+gastric persimmon stone	2124
+gastric polyps	2125
+gastric reactive lymphoproliferation	2126
+gastric remnant lymphoma	2127
+gastric retention	2128
+gastric stump cancer	2129
+gastric teratoma	2130
+gastric torsion	2131
+gastric tuberculosis	2132
+gastric ulcer	2133
+gastric ulcer perforation	2134
+gastrinoma	2135
+gastritis	2136
+gastroenteritis	2137
+gastroesophageal reflux disease	2138
+gastroesophageal reflux disease in the elderly	2139
+gastroesophageal reflux in infants and young children	2140
+gastrointestinal bleeding	2141
+gastrointestinal bleeding in children	2142
+gastrointestinal cancer	2143
+gastrointestinal cancer metastasis to the ovaries	2144
+gastrointestinal cancer skin metastasis	2145
+gastrointestinal dampness and heat	2146
+gastrointestinal diseases	2147
+gastrointestinal disorders	2148
+gastrointestinal food intolerance	2149
+gastrointestinal food poisoning	2150
+gastrointestinal infection of sars	2151
+gastrointestinal manifestations of amyloidosis	2152
+gastrojejunal afferent loop syndrome	2153
+gastrolithiasis	2154
+gastroptosis	2155
+gaucher disease	2156
+genetic diseases	2157
+genetic diseases of the nervous system	2158
+genetic obesity	2159
+genital candidiasis	2160
+genital herpes	2161
+genital malformations	2162
+genital warts	2163
+genital warts in children	2164
+geographic tongue	2165
+geriatric diseases	2166
+germ cell tumors in children	2167
+gestational diabetes	2168
+ghost cell glaucoma	2169
+giant baby	2170
+giant cell arteritis	2171
+giant cell arteritis and polymyalgia rheumatica	2172
+giant cell tumor of bone	2173
+giant cell tumor of skull	2174
+giant hypertrophic gastritis	2175
+giant platelet disease	2176
+gigantism	2177
+gigantism and acromegaly	2178
+gilbert's syndrome	2179
+ginger	2180
+gingival fistula	2181
+gingivitis	2182
+ginkgo (dried)	2183
+ginkgo (fresh)	2184
+glanders	2185
+glandular cheilitis	2186
+glans cancer	2187
+glaucoma	2188
+glaucoma caused by vitreous and retinal detachment surgery	2189
+glaucoma due to increased episcleral venous pressure	2190
+glaucoma due to lens dislocation	2191
+glaucoma due to lens expansion	2192
+glaucoma secondary to aphakia and pseudophakia	2193
+glaucomatous cyclitis syndrome	2194
+glioblastoma	2195
+glioma	2196
+globoid cell leukodystrophy	2197
+glomerulonephritis	2198
+glossitis	2199
+glossopharyngeal nerve injury	2200
+glossopharyngeal neuralgia	2201
+glucose-6-phosphate dehydrogenase deficiency	2202
+gluteal muscle contracture	2203
+gluten enteropathy	2204
+glutinous rice (purple)	2205
+glycogen storage disease	2206
+glycogen storage disease type ii	2207
+goat milk	2208
+gonococcal anorectal inflammation	2209
+gonococcal conjunctivitis	2210
+gonococcal peritonitis	2211
+gonococcal urethritis	2212
+gonorrhea	2213
+gonorrhea and prostatitis	2214
+gonorrhea complicated by seminal vesiculitis	2215
+goodpasture syndrome	2216
+goodpasture's syndrome	2217
+goodpasture-nephritis syndrome in children	2218
+goose	2219
+goose egg	2220
+goose palm wind	2221
+gorgon rice	2222
+gorgon rice (fresh)	2223
+gout	2224
+gout and hyperuricemia	2225
+gouty arthritis	2226
+gouty cardiomyopathy	2227
+gram-positive cocci and gram-negative bacilli scleritis	2228
+grape	2229
+grass carp	2230
+grass shrimp	2231
+greater radicular artery ischemia syndrome supplying the thoracolumbar spinal cord	2232
+greater trochanteric tuberculosis	2233
+green beans	2234
+green garlic	2235
+green onion	2236
+green pepper	2237
+grey hair disease	2238
+growth hormone deficiency in children	2239
+gum cancer	2240
+gynecological diseases	2241
+gynecological inflammation	2242
+gynecological syndrome	2243
+gynecomastia	2244
+gyral skull	2245
+h7n7	2246
+h7n9 avian influenza	2247
+habitual abortion	2248
+habitual constipation	2249
+habitual patellar dislocation	2250
+haemophilus influenzae infection	2251
+haemophilus influenzae meningitis	2252
+haemophilus influenzae pneumonia	2253
+haemophilus vaginalis vaginitis	2254
+hair loss	2255
+hair root sheath carcinoma	2256
+hairtail	2257
+hairy labia minora	2258
+hairy leukoplakia	2259
+hallux valgus	2260
+ham	2261
+hamartoma	2262
+hamartoma of the breast	2263
+hamstring strain	2264
+hand eczema	2265
+hand extensor tendon injury	2266
+hand injury	2267
+hand, foot and mouth disease	2268
+hanged	2269
+hard plaque	2270
+haricot vert	2271
+hawthorn	2272
+head trauma	2273
+headache	2274
+headache caused by intracranial space-occupying lesions	2275
+hearing impairment	2276
+heart disease	2277
+heart disease during pregnancy	2278
+heart dysfunction	2279
+heart failure	2280
+heart failure in children	2281
+heart failure in the elderly	2282
+heart fire rising	2283
+heart qi deficiency	2284
+heart valve insufficiency	2285
+heat bi	2286
+heat cold	2287
+heat enters the blood chamber	2288
+heat exhaustion	2289
+heat rash	2290
+heat stroke	2291
+heat stroke and heat syndrome in children	2292
+heat stroke cramps	2293
+heat toxicity attacks the heart	2294
+heat urticaria	2295
+heavy menstruation	2296
+heavy metal toxic nephropathy	2297
+heel pain	2298
+heel spur syndrome	2299
+helicobacter pylori infection	2300
+hemangioblastoma	2301
+hemangioendothelioma	2302
+hemangioma	2303
+hemangioma thrombocytopenia syndrome in children	2304
+hematuria	2305
+hemifacial atrophy	2306
+hemifacial spasm	2307
+hemiplegia	2308
+hemivertebra	2309
+hemochromatosis	2310
+hemochromatosis osteoarthropathy	2311
+hemoglobinopathy	2312
+hemolytic anemia	2313
+hemolytic anemia caused by lead poisoning	2314
+hemolytic jaundice	2315
+hemolytic uremic syndrome in children	2316
+hemophagocytic syndrome	2317
+hemophilia	2318
+hemophilia a	2319
+hemophilia in children	2320
+hemoptysis	2321
+hemorrhagic cerebral infarction	2322
+hemorrhagic cystitis	2323
+hemorrhagic fever	2324
+hemorrhagic salpingitis	2325
+hemorrhagic shock	2326
+hemorrhagic shock and encephalopathy syndrome in children	2327
+hemorrhagic stroke	2328
+hemorrhoid	2329
+hemorrhoids	2330
+hemothorax	2331
+hen	2332
+henoch-schonlein purpura	2333
+henoch-schonlein purpura in children	2334
+henoch-schonlein purpura nephritis	2335
+henoch-schonlein purpura nephritis in children	2336
+hepatic adenoma	2337
+hepatic angiomyolipoma	2338
+hepatic artery aneurysm	2339
+hepatic cavernous hemangioma	2340
+hepatic encephalopathy	2341
+hepatic encephalopathy in the elderly	2342
+hepatic hamartoma	2343
+hepatic hemangioma	2344
+hepatic hematoma and rupture during pregnancy	2345
+hepatic hydatid cyst	2346
+hepatic myelopathy	2347
+hepatic porphyria syndrome	2348
+hepatic tuberculosis	2349
+hepatic veno-occlusive disease	2350
+hepatitis	2351
+hepatitis a	2352
+hepatitis b	2353
+hepatitis c	2354
+hepatitis c in children	2355
+hepatitis c virus infection and glomerulonephritis	2356
+hepatitis coinfection	2357
+hepatitis d virus	2358
+hepatitis d virus in children	2359
+hepatitis e	2360
+hepatopulmonary syndrome	2361
+hepatorenal syndrome	2362
+hepatotoxic renal damage	2363
+hereditary ataxia	2364
+hereditary elliptocytosis	2365
+hereditary epidermolysis bullosa in children	2366
+hereditary hemorrhagic telangiectasia	2367
+hereditary nephritis	2368
+hereditary opalescent teeth	2369
+hereditary sideroblastic anemia	2370
+hereditary spastic paraplegia	2371
+hermaphroditism in children	2372
+hernia	2373
+herpes	2374
+herpes b virus infection	2375
+herpes during pregnancy	2376
+herpes simplex	2377
+herpes simplex encephalitis	2378
+herpes simplex keratitis	2379
+herpes simplex scleritis	2380
+herpes simplex virus infection	2381
+herpes simplex virus pneumonia	2382
+herpes zoster eyelid	2383
+herpes zoster keratitis	2384
+herpes zoster ophthalmicus	2385
+herpes zoster scleritis	2386
+herpetic angina	2387
+herpetic keratoconjunctivitis in children	2388
+herpetic pharyngitis	2389
+herpetic stomatitis	2390
+heterogeneous fatty liver	2391
+heterophoria	2392
+heteropia	2393
+hiatal hernia	2394
+hiccup	2395
+hiccups	2396
+high altitude heart disease	2397
+high arched foot	2398
+high cholesterol	2399
+high fever in children	2400
+high myopia	2401
+high paraplegia	2402
+high-pressure hydrocephalus	2403
+hilar lymphadenopathy	2404
+hildegard disease	2405
+hip bursitis	2406
+hip dislocation	2407
+hip tuberculosis	2408
+hirschsprung's disease	2409
+hirschsprung's disease in children	2410
+hirsutism	2411
+histiocytic necrotizing lymphadenitis	2412
+histiocytosis	2413
+histrionic personality disorder	2414
+hodgkin disease	2415
+hodgkin lymphoma	2416
+homocystinuria	2417
+honey	2418
+honeycomb lung syndrome	2419
+hookworm dermatitis	2420
+hookworm disease	2421
+hookworm duodenitis syndrome	2422
+horse teeth	2423
+horseshoe kidney	2424
+hot cough	2425
+hot flashes	2426
+hot palms and soles	2427
+hot secret	2428
+hot sweat	2429
+houttuynia cordata	2430
+human demodicosis	2431
+human papillomavirus infection	2432
+humeral head fracture	2433
+humeral shaft fracture	2434
+humeral surgical neck fracture	2435
+hydatid disease	2436
+hydatidiform mole	2437
+hydrocele	2438
+hydrocephalus	2439
+hydrocephalus in children	2440
+hydrogen sulfide poisoning	2441
+hydronephrosis	2442
+hymenolepis shortissima	2443
+hyperactivity of liver yang	2444
+hyperaldosteronism in children	2445
+hypercarotenemia	2446
+hypercortisolism in pregnancy	2447
+hyperemesis gravidarum	2448
+hyperextension injury of cervical spine	2449
+hyperhidrosis	2450
+hyperkalemia	2451
+hyperlipidemia	2452
+hyperlipidemia in the elderly	2453
+hypermobility syndrome in children	2454
+hyperopia	2455
+hyperosmolar nonketotic diabetic coma	2456
+hyperparathyroid cardiomyopathy	2457
+hyperprolactinemia	2458
+hyperreflexic rhinitis	2459
+hypersecretory glaucoma	2460
+hypersensitivity pneumonitis	2461
+hypersexuality	2462
+hypersplenism	2463
+hypertension	2464
+hypertension in children	2465
+hypertension in the elderly	2466
+hypertensive arteriolar nephrosclerosis	2467
+hypertensive crisis	2468
+hypertensive crisis in the elderly	2469
+hypertensive disorders of pregnancy	2470
+hypertensive eye disease	2471
+hypertensive intracerebral hemorrhage	2472
+hypertensive nephropathy	2473
+hypertestosteronemia	2474
+hyperthyroid cardiomyopathy	2475
+hyperthyroidism	2476
+hyperthyroidism and pregnancy	2477
+hyperthyroidism during pregnancy	2478
+hyperthyroidism in the elderly	2479
+hyperthyroidism liver disease	2480
+hypertonic dehydration	2481
+hypertrophic cardiomyopathy	2482
+hypertrophic cardiomyopathy in children	2483
+hypertrophic gingivitis	2484
+hypertrophic obstructive cardiomyopathy	2485
+hypertrophic osteoarthropathy	2486
+hypertrophic pyloric stenosis in adults	2487
+hypertrophic scars	2488
+hyperuricemia nephropathy	2489
+hyphema	2490
+hyphema and glaucoma	2491
+hypocalcemia and hypomagnesemia	2492
+hypocalcemia in the elderly	2493
+hypochloremic alkalosis	2494
+hypochloric azotemia syndrome in children	2495
+hypochondriasis	2496
+hypoglossal nerve injury	2497
+hypoglycemia	2498
+hypoglycemia coma in the elderly	2499
+hypoglycemia in children	2500
+hypoglycemia in the elderly	2501
+hypoglycemia syndrome	2502
+hypokalemia	2503
+hypokalemic nephropathy	2504
+hyponatremia	2505
+hyponatremia in children	2506
+hypoparathyroid cardiomyopathy	2507
+hypoparathyroidism	2508
+hypophosphatase in children	2509
+hypopituitarism	2510
+hypoplastic left heart	2511
+hypoproliferative acute leukemia	2512
+hypospadias	2513
+hypospadias in children	2514
+hypotension in the elderly	2515
+hypothalamic diseases	2516
+hypothalamic hamartoma	2517
+hypothalamic hyperhidrosis	2518
+hypothalamic lesions	2519
+hypothalamic syndrome	2520
+hypothermia	2521
+hypothyroid cardiomyopathy	2522
+hypothyroidism	2523
+hypothyroidism heart disease in the elderly	2524
+hypothyroidism in the elderly	2525
+hypotonic dehydration	2526
+hypotonic glaucoma	2527
+hysteria	2528
+hysterical syncope	2529
+ice cream	2530
+ichthyosis	2531
+ichthyosis vulgaris	2532
+icteric hepatitis	2533
+idiopathic bronchiolitis obliterans with organizing pneumonia	2534
+idiopathic epiretinal membrane	2535
+idiopathic facial nerve palsy	2536
+idiopathic femoral head necrosis	2537
+idiopathic gastrointestinal eosinophilic syndrome	2538
+idiopathic hypereosinophilic syndrome	2539
+idiopathic non-cirrhotic portal hypertension syndrome	2540
+idiopathic polypoidal choroidal vasculopathy	2541
+idiopathic pulmonary fibrosis	2542
+idiopathic retroperitoneal fibrosis	2543
+idiopathic scoliosis	2544
+idiopathic thrombocytopenic purpura	2545
+idiopathic uveal encephalitis	2546
+idiopathic ventricular fibrillation	2547
+idiopathic ventricular tachycardia	2548
+iga nephropathy in children	2549
+ileocecal syndrome	2550
+iliac bone harvest for pelvic lateral abdominal wall hernia	2551
+ilioinguinal neuralgia	2552
+immersion sores	2553
+immobile cilia syndrome	2554
+immune-mediated kidney disease	2555
+immunodeficiency pneumonia	2556
+impaired consciousness	2557
+imperforate hymen	2558
+impetigo	2559
+impetigo herpetiformis	2560
+impotence	2561
+impulsive personality disorder	2562
+incarcerated inguinal hernia	2563
+incisional hernia	2564
+inclusion body myositis	2565
+inclusion conjunctivitis	2566
+inclusion cyst	2567
+incomplete intestinal obstruction	2568
+incontinence pigmenti in children	2569
+increased intracranial pressure in the elderly	2570
+indigestion	2571
+indurated erythema	2572
+infantile colic	2573
+infantile hot flash syndrome	2574
+infantile myofibromatosis	2575
+infected abdominal aortic aneurysm	2576
+infectious acute tubulointerstitial nephritis	2577
+infectious arthritis	2578
+infectious costochondritis	2579
+infectious mononucleosis	2580
+infectious mononucleosis in children	2581
+infectious thrombocytopenic purpura	2582
+infective endocarditis	2583
+infective endocarditis in children	2584
+inferior vena cava obstructive syndrome in children	2585
+infertility	2586
+infiltrative pulmonary tuberculosis	2587
+inflammatory breast cancer	2588
+influenza	2589
+influenza a	2590
+influenza a (h1n1)	2591
+influenza in children	2592
+influenza in the elderly	2593
+influenza virus pneumonia	2594
+influenza virus pneumonia in children	2595
+information addiction	2596
+infraorbital space infection	2597
+infrared injury	2598
+infratemporal space infection	2599
+inguinal granuloma	2600
+inguinal hernia	2601
+inguinal hernia in adults	2602
+inguinal hernia in children	2603
+inguinal hernia in the elderly	2604
+inguinal lymphadenitis	2605
+inhalation injury	2606
+injury of abdominal large blood vessels	2607
+injury of the ulnar collateral ligament of the thumb metacarpophalangeal joint	2608
+inorganic phosphorus poisoning	2609
+insect bite	2610
+insect bite dermatitis	2611
+insect evidence	2612
+insect infestation	2613
+insomnia	2614
+insomnia and depression	2615
+instrumental esophageal injury	2616
+insufficient blood	2617
+insulinoma	2618
+intellectual disability	2619
+intercondylar fracture of humerus	2620
+intercostal neuralgia	2621
+interdigital neuralgia	2622
+intermediate uveitis	2623
+intermittent exophthalmos	2624
+intermittent exotropia	2625
+intermittent psychosis	2626
+internal heat	2627
+internal hemorrhoids	2628
+internal hernia after bile and enteric drainage	2629
+internal hernia of bladder	2630
+internal injury fever	2631
+internal wetness	2632
+internet addiction	2633
+intersigmoid hernia	2634
+interspinous ligament injury	2635
+interstitial cystitis	2636
+interstitial cystitis, localized vulvitis, and desquamative vaginitis syndrome	2637
+interstitial nephritis	2638
+interstitial pneumonia	2639
+interstitial pneumonia - test	2640
+intertrochanteric fracture	2641
+intervertebral disc infection	2642
+intestinal	2643
+intestinal abscess	2644
+intestinal adhesions	2645
+intestinal depression	2646
+intestinal emphysema syndrome	2647
+intestinal endometriosis	2648
+intestinal fistula	2649
+intestinal flora imbalance	2650
+intestinal gas cyst	2651
+intestinal infectious diseases	2652
+intestinal knot	2653
+intestinal malabsorption syndrome	2654
+intestinal malabsorption syndrome in children	2655
+intestinal malrotation in children	2656
+intestinal mesentery injury	2657
+intestinal obstruction	2658
+intestinal parasites	2659
+intestinal pneumatosis	2660
+intestinal polyposis	2661
+intestinal roundworms	2662
+intestinal spasms	2663
+intestinal trichomoniasis	2664
+intestinal tuberculosis	2665
+intestinal tumors	2666
+intestinal vascular malformations	2667
+intestinal wind	2668
+intra-abdominal hernia	2669
+intra-amniotic infection syndrome	2670
+intra-atrial block	2671
+intraatrial reentrant tachycardia	2672
+intracardiac myxoma	2673
+intracranial aneurysm	2674
+intracranial cavernous hemangioma	2675
+intracranial chordoma	2676
+intracranial germinoma	2677
+intracranial hemorrhage	2678
+intracranial hypertension syndrome	2679
+intracranial hypotension headache	2680
+intracranial hypotension syndrome	2681
+intracranial lipoma	2682
+intracranial melanoma	2683
+intracranial metastases	2684
+intracranial teratoma	2685
+intracranial tumor hemorrhage	2686
+intracranial tumors	2687
+intracranial tumors in children	2688
+intracranial venous sinus occlusive hypertension	2689
+intracranial venous thrombosis	2690
+intraductal papilloma	2691
+intraepidermal neutrophil iga skin disease	2692
+intrahepatic bile duct stones	2693
+intramedullary tumors	2694
+intramural diverticula of the esophagus	2695
+intramuscular injection of induration infection	2696
+intraocular metastatic tumor	2697
+intraorbital cavernous hemangioma	2698
+intraspinal tuberculous granuloma	2699
+intrathoracic goiter	2700
+intraungual onychomycosis	2701
+intrauterine fetal death	2702
+intravascular large b-cell lymphoma	2703
+intravascular papillary hemangioendothelioma	2704
+intraventricular conduction block	2705
+intraventricular hemorrhage	2706
+intraventricular meningioma	2707
+intussusception	2708
+intussusception in children	2709
+invasive breast cancer	2710
+invasive escherichia coli enteritis	2711
+invasive squamous cell carcinoma of the vulva	2712
+inverted nipple	2713
+involuntary movement	2714
+iodine deficiency in children	2715
+iodine-induced goiter	2716
+iridocyclitis	2717
+iris melanoma	2718
+iron deficiency anemia	2719
+iron deficiency anemia in children	2720
+iron deficiency anemia in the elderly	2721
+iron utilization anemia	2722
+irregular menstruation	2723
+irregular shedding of the endometrium	2724
+irritable bowel syndrome	2725
+irritable bowel syndrome in the elderly	2726
+ischemia of the lower ventricle	2727
+ischemia of the radicular arteries supplying the cervical spinal cord	2728
+ischemic angina	2729
+ischemic brain disease	2730
+ischemic cardiomyopathy	2731
+ischemic colitis	2732
+ischemic colitis in the elderly	2733
+ischemic hepatitis	2734
+ischemic necrosis	2735
+ischemic optic disc disease	2736
+ischemic optic neuropathy	2737
+ischemic polymorphic ventricular tachycardia	2738
+ischiorectal abscess	2739
+islet cell carcinoid	2740
+isospora	2741
+isotonic dehydration	2742
+itch point	2743
+ivf	2744
+japanese encephalitis	2745
+japonica rice	2746
+jaundice	2747
+jaw cancer	2748
+jaw cyst	2749
+jaw fracture	2750
+jellyfish	2751
+jellyfish dermatitis	2752
+jellyfish head	2753
+jiayin typhoid	2754
+job's tears	2755
+joint degeneration	2756
+joint infection after total joint replacement	2757
+joint pain	2758
+joint sprains	2759
+jueyin headache	2760
+juvenile distal upper limb muscular atrophy	2761
+juvenile rheumatoid arthritis	2762
+juvenile rheumatoid disease	2763
+juvenile vertebral osteochondrosis	2764
+kala-azar	2765
+kaposi's varicelliform eruption	2766
+kaschin-beck disease	2767
+kawasaki disease	2768
+keloid	2769
+kelp (fresh)	2770
+keratitis	2771
+keratoconjunctivitis sicca	2772
+keratoconus	2773
+keratolysis exfoliativa	2774
+keratomalacia	2775
+keratosis	2776
+keratosis pilaris	2777
+kidney and ureteral duplication	2778
+kidney and ureteral stones	2779
+kidney atrophy	2780
+kidney beans	2781
+kidney cancer	2782
+kidney cyst	2783
+kidney damage	2784
+kidney damage caused by lymphoma	2785
+kidney damage in hyperthyroidism	2786
+kidney deficiency	2787
+kidney deficiency and low back pain	2788
+kidney deficiency dizziness	2789
+kidney deficiency tinnitus	2790
+kidney diabetes in children	2791
+kidney disease	2792
+kidney essence deficiency	2793
+kidney ptosis	2794
+kidney qi is not solid	2795
+kidney stones	2796
+kidney transplantation	2797
+kidney trauma	2798
+kidney tuberculosis in children	2799
+kidney yang deficiency	2800
+kidney yin deficiency	2801
+kimura disease	2802
+kimura reticular acral pigmentation	2803
+king oyster mushroom	2804
+kiwi	2805
+klebsiella infection	2806
+knee bone spurs	2807
+knee dislocation	2808
+knee injury	2809
+knee ligament injury	2810
+knee meniscus injury	2811
+knee tuberculosis	2812
+krabbe disease	2813
+kwashiorkor	2814
+kyphosis	2815
+labyrinth shock	2816
+lack of qi	2817
+lacrimal gland hypofunction	2818
+lacrimal gland inflammation	2819
+lacrimal gland mixed tumor	2820
+lacrimal gland sarcoidosis	2821
+lacrimal gland tumors	2822
+lacrimal sac tumor	2823
+lactic acidosis	2824
+lacunar infarction	2825
+lamb (fat or lean)	2826
+lamb (hind leg)	2827
+lamb (lean)	2828
+lamb liver	2829
+lamellar ichthyosis	2830
+lang-owen syndrome	2831
+lard	2832
+large bowel obstruction	2833
+large cerebral vein aneurysm	2834
+large granular lymphocytic leukemia	2835
+large yellow croaker	2836
+laryngeal air cyst	2837
+laryngeal cancer	2838
+laryngeal carbuncle	2839
+laryngeal keratosis	2840
+laryngeal obstruction	2841
+laryngeal paralysis	2842
+laryngeal polyps	2843
+laryngeal trauma	2844
+laryngeal tuberculosis	2845
+laryngitis	2846
+laryngotracheal cicatricial stenosis	2847
+laryngotracheoesophageal cleft	2848
+late postpartum hemorrhage	2849
+late-onset hypogammaglobulinemia	2850
+latent glomerulonephritis	2851
+latent syphilis	2852
+lateral epicondylitis	2853
+lateral humeral condylar neck fracture	2854
+lateral humeral condyle fracture	2855
+lateral knee ligament injury	2856
+lateral pharyngeal diverticulum	2857
+lateral skull base tumor	2858
+lateral ventricle tumor	2859
+lead poisoning	2860
+lead poisoning in children	2861
+leaven	2862
+left atrial rhythm	2863
+legionnaires' disease	2864
+leiomyosarcoma	2865
+leiomyosarcoma of gastric remnant	2866
+leiomyosarcoma of the gallbladder	2867
+leiomyosarcoma of the small intestine	2868
+lens dislocation	2869
+lens-related uveitis	2870
+lentigo maligna	2871
+lepromatous keratopathy	2872
+leprosy	2873
+leprotic peripheral neuropathy	2874
+leprotic uveitis	2875
+leptospirosis	2876
+lettuce	2877
+leucorrhea	2878
+leukemia	2879
+leukemia cutis	2880
+leukemia renal damage	2881
+leukemic angina	2882
+leukemic retinopathy	2883
+leukocyte glucose-6-phosphate dehydrogenase deficiency	2884
+leukopenia	2885
+leukopenia and agranulocytosis	2886
+leukoplakia	2887
+leukoplakia of the cervix	2888
+leukoplakia of tongue	2889
+levanstein syndrome	2890
+lichen planus	2891
+lichen planus on the tongue	2892
+lichenoid candidiasis	2893
+lichenoid tuberculosis	2894
+ligament injury	2895
+ligamentitis	2896
+lily	2897
+limb hypertrophy	2898
+linea alba hernia	2899
+linear iga bullous dermatosis	2900
+lingual thyroid gland	2901
+lip and tongue edema and facial paralysis syndrome	2902
+lip cancer	2903
+lip disease	2904
+lip style	2905
+lipid storage myopathy	2906
+lipoid pneumonia	2907
+lipoma	2908
+liposarcoma	2909
+liquor	2910
+listeria meningitis	2911
+listeriosis	2912
+lithium nephropathy	2913
+liver abscess	2914
+liver and gallbladder damp-heat	2915
+liver cancer	2916
+liver carcinoid	2917
+liver cysts	2918
+liver damage	2919
+liver disease	2920
+liver fibrosis	2921
+liver fluke disease	2922
+liver qi discomfort	2923
+liver stones	2924
+liver syndrome	2925
+liver tumors	2926
+liver-stomach disharmony	2927
+loach	2928
+lobar pneumonia	2929
+lobster	2930
+lobular hyperplasia	2931
+local anesthetic poisoning	2932
+localized bone abscess	2933
+localized mesothelioma	2934
+localized pleural mesothelioma	2935
+locked lung syndrome	2936
+locked-in syndrome	2937
+locking	2938
+lockjaw dysentery	2939
+loeffler's endocarditis	2940
+long qt syndrome	2941
+long-term ejaculation	2942
+longan	2943
+loofah	2944
+loss of libido	2945
+lotus root	2946
+lotus seeds	2947
+low back and leg pain	2948
+low blood pressure	2949
+low cardiac output syndrome in children	2950
+lower back pain	2951
+lower extremity arteriosclerosis obliterans	2952
+lower extremity communicating vein valvular insufficiency	2953
+lower extremity venous thrombosis	2954
+lower gastrointestinal bleeding	2955
+lower lumbar instability	2956
+lower respiratory tract infection	2957
+lumbar degenerative facet joint arthritis	2958
+lumbar disc herniation	2959
+lumbar fracture	2960
+lumbar muscle strain	2961
+lumbar spondylolisthesis	2962
+lumbar spondylolisthesis and spondylolisthesis	2963
+lumbar spondylosis	2964
+lumbar tuberculosis	2965
+lunate and perilunate dislocations	2966
+lunate dislocation	2967
+lunate osteochondrosis	2968
+lung abscess	2969
+lung abscess in children	2970
+lung abscess in the elderly	2971
+lung cancer	2972
+lung cancer bone metastasis	2973
+lung cancer brain metastasis	2974
+lung cancer in the elderly	2975
+lung cancer liver metastasis	2976
+lung cancer metastasis	2977
+lung cancer skin metastasis	2978
+lung cough	2979
+lung damage	2980
+lung dryness	2981
+lung failure	2982
+lung heat	2983
+lung heat cough	2984
+lung hernia	2985
+lung metastases	2986
+lung metastatic tumor	2987
+lung qi deficiency	2988
+lupus erythematosus	2989
+lupus nephritis	2990
+lupus pharyngeus	2991
+lust hurts	2992
+luteal insufficiency	2993
+lyme scleritis	2994
+lymph node sarcoidosis	2995
+lymph node tuberculosis	2996
+lymph node-biliary syndrome	2997
+lymphangioleiomyomas	2998
+lymphangioma	2999
+lymphangiosarcoma	3000
+lymphatic disease	3001
+lymphatic tuberculosis	3002
+lymphedema of the limbs	3003
+lymphocytic choriomeningitis	3004
+lymphocytic interstitial pneumonia in children	3005
+lymphocytopenia	3006
+lymphogranuloma venereum	3007
+lymphoma	3008
+lymphoma during pregnancy	3009
+lymphomatoid granuloma	3010
+lymphomatoid papulosis	3011
+machado-joseph disease	3012
+mackerel	3013
+macroglobulinemia	3014
+macrosomia	3015
+macular atrophy	3016
+macular degeneration	3017
+macular hole retinal detachment	3018
+madness	3019
+maffucci syndrome	3020
+malabsorption syndrome	3021
+malaria	3022
+malaria nephropathy	3023
+malassezia	3024
+male breast cancer	3025
+male diseases	3026
+male genital malformations	3027
+male genital trauma	3028
+male genital tuberculosis	3029
+male hypogonadism	3030
+male infertility	3031
+male menopause syndrome	3032
+male pseudohermaphroditism	3033
+male puberty breast development	3034
+male sexual dysfunction syndrome in cirrhotic men	3035
+male trauma	3036
+male urethral cancer	3037
+malignant arteriolar nephropathy caused by primary malignant hypertension in the elderly	3038
+malignant fibrous histiocytoma	3039
+malignant fibrous histiocytoma of bone	3040
+malignant glaucoma	3041
+malignant granuloma of nose	3042
+malignant histiocytosis	3043
+malignant hydatidiform mole	3044
+malignant hypertension	3045
+malignant hypertensive retinopathy	3046
+malignant lymphoma	3047
+malignant lymphoma of the large intestine	3048
+malignant melanoma	3049
+malignant melanoma of the skin	3050
+malignant mixed mesodermal tumor of ovary	3051
+malignant peritoneal mesothelioma of the ovary	3052
+malignant tumor of ear	3053
+malignant tumor of seminal vesicle	3054
+malignant tumors of the vagina	3055
+malnutrition	3056
+malnutrition edema in children	3057
+malnutrition in children	3058
+malnutrition-related cirrhosis	3059
+malnutrition-related weight loss in children	3060
+maltose	3061
+mammary duct ectasia	3062
+mandarin fish	3063
+mandibular retrusion	3064
+mango	3065
+mania	3066
+manic-depressive disorder	3067
+maple syrup disease in children	3068
+marfan syndrome	3069
+marginal gingivitis	3070
+masseter space infection	3071
+mast cell leukemia	3072
+mastitis	3073
+mastitis and areolar inflammation	3074
+maternal-fetal blood type incompatibility	3075
+mature ovarian teratoma	3076
+maturity-onset diabetes in young people	3077
+maxillary protrusion	3078
+maxillary retrusion	3079
+maxillary sinus cancer	3080
+maxillary sinus choanal polyp	3081
+maxillary sinus malignancy	3082
+maxillary sinusitis	3083
+maxillofacial actinomycosis	3084
+maxillofacial lymphangioma	3085
+maxillofacial neurofibroma	3086
+measles	3087
+measles virus pneumonia	3088
+meat spasm	3089
+mechanical trauma to the pharynx	3090
+meckel's diverticulum	3091
+medial epicondyle fracture	3092
+medial epicondylitis	3093
+medial humeral condyle fracture	3094
+medial tibial condyle osteochondrosis	3095
+median nerve injury	3096
+mediastinal abscess	3097
+mediastinal tumors	3098
+medulloblastoma	3099
+megacystis-microcolon-dysmotility syndrome	3100
+megaloblastic anemia	3101
+megaloblastic anemia in the elderly	3102
+meige syndrome	3103
+mekong schistosomiasis	3104
+melanie gangrene	3105
+melanoma	3106
+melanoma-gastrointestinal polyposis syndrome	3107
+melanosis of the colon and rectum	3108
+melioidosis	3109
+membranoproliferative glomerulonephritis	3110
+membranous glomerulonephritis	3111
+membranous stomatitis	3112
+memory impairment	3113
+men's disease	3114
+meniere's disease	3115
+meniere's syndrome	3116
+meningeal carcinomatosis	3117
+meningeal sarcoma	3118
+meningioma	3119
+meningitis	3120
+meningococcal meningitis	3121
+meningococcemia	3122
+meniscus injury	3123
+menopausal arthritis	3124
+menopausal syndrome	3125
+menopausal urinary incontinence	3126
+menopause	3127
+menopause and alzheimer's syndrome	3128
+menopause and cardiovascular disease	3129
+menopause and depression	3130
+menstrual cycle psychosis	3131
+menstrual disorders	3132
+menstrual headache	3133
+mental disorders associated with abnormal glucose metabolism	3134
+mental disorders associated with adrenal cortical dysfunction	3135
+mental disorders associated with behcet's disease	3136
+mental disorders associated with brain injury	3137
+mental disorders associated with cardiovascular disease	3138
+mental disorders associated with chromosomal abnormalities	3139
+mental disorders associated with digestive system diseases	3140
+mental disorders associated with hypertension	3141
+mental disorders associated with hyperthyroidism	3142
+mental disorders associated with hypothyroidism	3143
+mental disorders associated with intracranial tumors	3144
+mental disorders associated with japanese encephalitis	3145
+mental disorders associated with kidney disease	3146
+mental disorders associated with leukemia	3147
+mental disorders associated with parathyroid dysfunction	3148
+mental disorders associated with perioperative period	3149
+mental disorders associated with physical illness	3150
+mental disorders associated with physical infection	3151
+mental disorders associated with respiratory diseases	3152
+mental disorders associated with sexual dysfunction	3153
+mental disorders associated with sporadic encephalitis	3154
+mental disorders associated with thyroid dysfunction	3155
+mental disorders caused by brain injury	3156
+mental disorders caused by pesticide poisoning	3157
+mental illness	3158
+mental retardation	3159
+mental retardation in children	3160
+mercury dermatitis	3161
+mercury poisoning	3162
+merkel cell carcinoma	3163
+mesenchymal chondrosarcoma	3164
+mesenteric artery aneurysm	3165
+mesenteric cyst	3166
+mesenteric hiatal hernia	3167
+mesenteric lipitis	3168
+mesenteric lymph node tuberculosis	3169
+mesenteric lymph node tuberculosis in children	3170
+mesenteric tumors	3171
+mesenteric vascular ischemic disease	3172
+mesenteric vein thrombosis	3173
+metabolic acidosis	3174
+metabolic alkalosis	3175
+metabolic cataract	3176
+metacarpophalangeal dislocation	3177
+metachromatic leukodystrophy	3178
+metal-induced oral mucosal diseases	3179
+metastatic liver cancer	3180
+metastatic pleural tumors	3181
+metatarsal and phalangeal fractures	3182
+metatarsal fatigue fracture	3183
+metatarsal fractures	3184
+metatarsophalangeal joint pain	3185
+methanol poisoning	3186
+methionine poisoning	3187
+micro-squinting	3188
+microangiopathic hemolytic anemia	3189
+microcytic hypochromic anemia	3190
+microscopic polyangiitis	3191
+microvirus b19 infectious rheumatism	3192
+middle ear barotrauma	3193
+middle ear cancer	3194
+migraine	3195
+migraine in children	3196
+mild fatty liver	3197
+miliary lupus on the face	3198
+milk	3199
+milk accumulation in children	3200
+milk aspiration pneumonia	3201
+milk hair	3202
+milk hemp	3203
+milk retention	3204
+milk ringworm	3205
+milk-alkali syndrome	3206
+millet	3207
+millet noodles	3208
+millipede burns	3209
+minimal change nephropathy	3210
+mite dermatitis	3211
+mitochondrial disease	3212
+mitochondrial encephalomyopathy	3213
+mitral and aortic valve disorders	3214
+mitral regurgitation	3215
+mitral stenosis	3216
+mixed anaerobic infection	3217
+mixed cerebral palsy	3218
+mixed connective tissue disease	3219
+mixed eyes	3220
+mixed hemorrhoids	3221
+mixed mole	3222
+mixed tumor	3223
+mixed vaginitis	3224
+mobile appendix syndrome	3225
+moderate fatty liver	3226
+molar	3227
+molluscum contagiosum	3228
+momordica charantia	3229
+monk fruit	3230
+monocular bilateral adductor palsy	3231
+monocytic leukemia	3232
+monteggia fracture	3233
+mooren's ulcer	3234
+moray eel	3235
+morbilliform erythema	3236
+morganella pneumonia	3237
+morton's metatarsal headache	3238
+motion sickness	3239
+motor neurone disease	3240
+mouth ulcers	3241
+moyamoya disease in children	3242
+mucoepidermoid carcinoma	3243
+mucormycosis	3244
+mucosa-associated lymphoma	3245
+mud cabbage	3246
+mud clam	3247
+mud snail-solar dermatitis	3248
+mulberry (purple, red)	3249
+multi-infarct dementia	3250
+multifocal atrial tachycardia in children	3251
+multiple births	3252
+multiple breasts	3253
+multiple cerebral infarction mental disorder	3254
+multiple enchondromas	3255
+multiple enchondromatosis	3256
+multiple endocrine neoplasia syndrome type i	3257
+multiple endocrine neoplasia type ii	3258
+multiple epiphyseal dysplasia	3259
+multiple gastrointestinal polyposis syndrome	3260
+multiple hereditary osteochondroma	3261
+multiple intracranial hematomas	3262
+multiple lung infections	3263
+multiple meningiomas	3264
+multiple myeloma	3265
+multiple myeloma nephropathy	3266
+multiple organ failure in the elderly	3267
+multiple pregnancy	3268
+multiple primary cancers of the female reproductive tract	3269
+multiple sclerosis	3270
+multiple space infection of the floor of mouth	3271
+multiple system atrophy	3272
+multiple tendinopathy	3273
+multiple tic syndrome	3274
+multisystem organ failure	3275
+mumps	3276
+mung bean noodles	3277
+mung bean soup	3278
+mung bean sprouts	3279
+muscle and bone weakness	3280
+muscle atrophy	3281
+muscle paralysis	3282
+muscle weakness	3283
+muscular dystrophy	3284
+mushrooms (dried)	3285
+mussels (dried)	3286
+mussels (fresh)	3287
+mustard	3288
+mustard (small leaves)	3289
+myasthenia gravis	3290
+myasthenia gravis crisis	3291
+myasthenia gravis in the elderly	3292
+mycetoma	3293
+mycobacterium churgai infection	3294
+mycobacterium intracellulare infection	3295
+mycobacterium ulcerans infection	3296
+mycoplasma infection	3297
+mycoplasma pneumonia	3298
+mycoplasma pneumonia in children	3299
+mycoplasma pneumonia in the elderly	3300
+mycoplasma urinary tract infection	3301
+myelitis	3302
+myeloid hyperhidrosis	3303
+myelomonocytic leukemia	3304
+myelopathy due to electrical injury	3305
+myelopathy due to systemic lupus erythematosus	3306
+myeloperoxidase deficiency	3307
+myocardial infarction	3308
+myocardial infarction complicated by left ventricular aneurysm	3309
+myocardial infarction complicated by mitral regurgitation	3310
+myocardial infarction complicated by ventricular septal rupture	3311
+myocardial infarction in the elderly	3312
+myocardial infarction in young people	3313
+myocardial ischemia	3314
+myocarditis	3315
+myocarditis in children	3316
+myoclonic cerebellar dyscolerosis	3317
+myoclonic epilepsy in children	3318
+myofasciitis	3319
+myopia	3320
+myositis ossificans	3321
+myositis ossificans of the elbow	3322
+myotonia congenita	3323
+myotonia congenita syndrome	3324
+mysophobia	3325
+myxofibrosarcoma	3326
+nabothian cyst	3327
+narcolepsy	3328
+nasal cancer	3329
+nasal carbuncle	3330
+nasal cyst	3331
+nasal fracture	3332
+nasal furuncle	3333
+nasal glioma	3334
+nasal hemangioma	3335
+nasal osteoma	3336
+nasal polyps	3337
+nasal septum abscess	3338
+nasal septum perforation	3339
+nasal septum ulcer	3340
+nasal trauma	3341
+nasal tuberculosis	3342
+nasal valve stenosis	3343
+nasal/nasal type t/nk cell lymphoma	3344
+nasopharyngeal angiofibroma	3345
+nasopharyngeal carcinoma	3346
+nasopharyngeal sarcoma	3347
+nausea and vomiting	3348
+nausea and vomiting during pregnancy	3349
+navicular fracture	3350
+navicular osteochondrosis	3351
+neck and shoulder pain	3352
+neck carbuncle	3353
+neck strangulation	3354
+necrospermia	3355
+necrotic enteritis	3356
+necrotic gingivostomatitis in children	3357
+necrotizing gingivostomatitis	3358
+neisseria catarrhalis pneumonia	3359
+nephritis	3360
+nephrogenic diabetes insipidus in children	3361
+nephrolithiasis	3362
+nephrotic syndrome	3363
+nerve damage caused by systemic vasculitis	3364
+nerve damage in the hand	3365
+nerve entrapment syndrome	3366
+nervous food poisoning	3367
+nervous vomiting	3368
+neural sheath tumors	3369
+neural tube defects in children	3370
+neuralgia	3371
+neurasthenia	3372
+neuritis	3373
+neuroblastoma in children	3374
+neurocutaneous syndrome in children	3375
+neurodermatitis	3376
+neurodevelopmental retardation	3377
+neuroendocrine tumor skin metastasis	3378
+neuroendocrine tumors	3379
+neurofibroma	3380
+neurofibromatosis	3381
+neurofibromatosis in children	3382
+neurofibrosarcoma	3383
+neurogenic bladder	3384
+neurogenic bladder in children	3385
+neurogenic ileus syndrome	3386
+neurogenic impotence	3387
+neurogenic keratitis	3388
+neurogenic tinnitus	3389
+neurogenic tumors	3390
+neurological behcet's syndrome in children	3391
+neurological diseases	3392
+neurological excoriation	3393
+neuroma	3394
+neuromyelitis optica	3395
+neuromyotonia	3396
+neuronal ceroid lipofuscinosis	3397
+neuropathic arthropathy	3398
+neuropeptide acral paresthesia	3399
+neurosarcoidosis	3400
+neurosis	3401
+neutropenia	3402
+nevus of ito	3403
+nevus of ota	3404
+nezelot syndrome	3405
+niacin deficiency in children	3406
+niemann-pick disease	3407
+night terrors	3408
+nipple discharge	3409
+nipple erosive adenomatosis	3410
+nitrite poisoning	3411
+nitrite poisoning in children	3412
+nitrite-containing plant food poisoning	3413
+nocardia scleritis	3414
+nocturnal asthma	3415
+nocturnal emission	3416
+nocturnal enuresis	3417
+nodular goiter	3418
+nodular panniculitis	3419
+noise disease	3420
+noise-induced hearing loss	3421
+non-cholera vibrio infections	3422
+non-dependency-related substances	3423
+non-functioning pituitary adenoma	3424
+non-hodgkin's lymphoma	3425
+non-iga mesangial proliferative glomerulonephritis	3426
+non-ossifying fibroma	3427
+non-st-segment elevation myocardial infarction	3428
+non-ulcer dyspepsia	3429
+nonalcoholic fatty liver disease	3430
+nonbacterial prostatitis	3431
+noncompaction of ventricular myocardium	3432
+nonfat reticuloendothelial hyperplasia syndrome in children	3433
+nonfunctional parathyroid cyst	3434
+nongonococcal urethritis	3435
+nonparasitic liver cysts	3436
+nonspecific systemic necrotizing small vessel vasculitis	3437
+nonspecific urethritis	3438
+nonspecific vaginitis	3439
+nonunion of fractures	3440
+noodles (dried noodles)	3441
+normal thyroid gland enlargement	3442
+norwalk virus gastroenteritis	3443
+norwalk-like virus gastroenteritis	3444
+nose disease	3445
+nose stone	3446
+nose tumor	3447
+nosebleeds	3448
+nosocomial infection	3449
+nummular eczema	3450
+nummular palmoplantar keratoderma	3451
+nutritional anemia	3452
+nutritional megaloblastic anemia	3453
+nutritional metabolic deficiency	3454
+nystagmus	3455
+oatmeal	3456
+obesity	3457
+obesity hypoventilation syndrome in children	3458
+obesity in children	3459
+obesity in the elderly	3460
+obesity-induced reproductive incompetence syndrome	3461
+obsessive-compulsive disorder	3462
+obsessive-compulsive personality disorder	3463
+obstetric disseminated intravascular coagulation	3464
+obstetric shock	3465
+obstructive emphysema	3466
+obstructive uropathy	3467
+obturator hernia	3468
+occipital lobe tumor	3469
+occipital-cervical joint injury	3470
+occupational diseases	3471
+occupational melanosis	3472
+occupational skin cancer	3473
+octopus	3474
+ocular hypertension	3475
+ocular involvement of paranasal sinus squamous cell carcinoma	3476
+ocular lesions in nasopharyngeal carcinoma	3477
+oculo-ear-spinal syndrome in children	3478
+oculomotor, trochlear, and abducens nerve disorders	3479
+odontoid process fracture	3480
+odontoma	3481
+office syndrome	3482
+oil paint dermatitis	3483
+oily skin	3484
+olecranon fracture	3485
+oligodendroglioma and anaplastic oligodendroglioma	3486
+oligohydramnios	3487
+oligospermia	3488
+omental adhesion syndrome	3489
+omental cyst	3490
+omental torsion	3491
+omental tumor	3492
+omentitis	3493
+omphalitis	3494
+onchocerciasis	3495
+onion	3496
+onychomycosis	3497
+open brain injury	3498
+open fracture	3499
+open hand injury	3500
+open pneumothorax	3501
+open-angle glaucoma	3502
+opening and closing	3503
+ophthalmic myasthenia gravis	3504
+opiate intoxication	3505
+opioid poisoning	3506
+optic atrophy	3507
+optic disc edema	3508
+optic discitis	3509
+optic nerve glioma in children	3510
+optic neuritis	3511
+oral and maxillofacial soft tissue injuries	3512
+oral candidiasis	3513
+oral condyloma acuminatum	3514
+oral disease	3515
+oral erosion	3516
+oral herpes simplex	3517
+oral leukoplakia	3518
+oral lichen planus	3519
+oral mucosal diseases	3520
+oral tuberculous ulcers	3521
+oral ulcers in children	3522
+orange cake	3523
+orbital blowout fracture	3524
+orbital cellulitis	3525
+orbital floor fracture	3526
+orbital fractures	3527
+orbital hematoma	3528
+orbital impact fracture	3529
+orbital leiomyoma	3530
+orbital myositis	3531
+orbital neurofibroma	3532
+orbital osteomyelitis	3533
+orbital periostitis	3534
+orbital pseudotumor	3535
+orbital sarcoma	3536
+orbital schwannoma	3537
+orbital venous hemangioma	3538
+orchitis	3539
+organochlorine pesticide poisoning	3540
+organophosphorus pesticide poisoning	3541
+organophosphorus pesticide poisoning in children	3542
+orgasmic disorders	3543
+oropharyngeal adhesions	3544
+orthostatic hypotension	3545
+osmanthus fragrans	3546
+ossification of the anterior longitudinal ligament	3547
+ossification of the ligamentum flavum	3548
+ossification of the posterior longitudinal ligament of the cervical spine	3549
+ossifying fibroma	3550
+osteitis deformans	3551
+osteitis dense	3552
+osteitis fibrosa	3553
+osteitis pubis	3554
+osteoarthritis	3555
+osteoarthritis in the elderly	3556
+osteoarthritis of the first metatarsal phalanx	3557
+osteochondritis dissecans	3558
+osteochondroma	3559
+osteochondrosis of the calcaneal epiphysis	3560
+osteochondrosis of the femoral head	3561
+osteochondrosis of the metatarsal heads	3562
+osteodystrophy in children	3563
+osteogenesis imperfecta	3564
+osteoid osteoma	3565
+osteoma	3566
+osteomyelitis	3567
+osteomyelitis of the jaw	3568
+osteonecrosis	3569
+osteonecrosis in adults	3570
+osteoporosis in the elderly	3571
+osteosarcoma	3572
+osteosclerosis	3573
+osteosclerosis in children	3574
+other salmonella infections	3575
+other salmonella infections in children	3576
+other vibrio infections	3577
+other viral pneumonia	3578
+otitis externa	3579
+otitis media	3580
+otitis media with effusion	3581
+oto-neuralgia	3582
+otogenic hydrocephalus	3583
+otogenic meningitis	3584
+otolithiasis	3585
+otosclerosis	3586
+outer exudative retinopathy	3587
+ovarian annular sex cord tumor	3588
+ovarian cancer	3589
+ovarian clear cell tumor	3590
+ovarian crown cyst	3591
+ovarian cysts	3592
+ovarian disease	3593
+ovarian dysfunction syndrome	3594
+ovarian dysgerminoma	3595
+ovarian endometrioid tumor	3596
+ovarian fibroblastic tumor	3597
+ovarian fibroma	3598
+ovarian fibromatosis	3599
+ovarian granulosa cell tumor	3600
+ovarian gynecoma	3601
+ovarian hyperstimulation syndrome	3602
+ovarian mixed germ cell-sex cord stromal tumor	3603
+ovarian muscle tumors	3604
+ovarian pregnancy	3605
+ovarian rupture	3606
+ovarian sclerosing stromal tumor	3607
+ovarian serous tumor	3608
+ovarian theca cell tumor	3609
+ovarian tumors in adolescents and children	3610
+ovarian tumors in children	3611
+ovarian yolk sac tumor	3612
+overactive bladder	3613
+overwork obesity	3614
+ovulation bleeding	3615
+ovulatory disorders	3616
+oysters (fresh)	3617
+pacemaker syndrome	3618
+pachyonychia congenita	3619
+paederus dermatitis	3620
+paget's disease	3621
+pain during intercourse	3622
+painful fat hernia	3623
+painful ophthalmoplegia	3624
+painless myocardial infarction	3625
+painless thyroiditis	3626
+paint dermatitis	3627
+paint-induced skin diseases	3628
+panbronchiolitis	3629
+panbronchiolitis - tests	3630
+pancreatic abscess	3631
+pancreatic cancer	3632
+pancreatic cyst	3633
+pancreatic cystadenocarcinoma	3634
+pancreatic fistula	3635
+pancreatic injury	3636
+pancreatic polypeptide tumor	3637
+pancreatic pseudocyst	3638
+pancreatic stones	3639
+pancreatic trauma	3640
+pancreatic tuberculosis	3641
+pancreaticobiliary syndrome	3642
+pancreatitis	3643
+panhypopituitarism in adults	3644
+panic disorder	3645
+papillary adenoma	3646
+papillary cystadenocarcinoma	3647
+papillary cystadenoma	3648
+papillary eccrine adenoma	3649
+papillary hidradenoma	3650
+papillary thyroid cancer	3651
+papilloma of the nipple	3652
+papula acrodermatitis syndrome in children	3653
+papular necrotizing tuberculous eruption	3654
+papular urticaria	3655
+papulopurpuric gloves and socks syndrome	3656
+papulous angiogenesis	3657
+paracecal hernia	3658
+paracholera	3659
+paracoccidioidomycosis	3660
+parafalcine meningioma	3661
+paragonimiasis	3662
+parainfluenza	3663
+parainfluenza virus pneumonia in children	3664
+paralysis	3665
+paralytic brachial plexus neuritis	3666
+paralytic dementia	3667
+paralytic ileus	3668
+paralytic strabismus	3669
+paramyotonia congenita	3670
+paraneoplastic syndromes of the nervous system	3671
+paranoid disorder	3672
+parapelvic cyst	3673
+parapharyngeal abscess	3674
+parapharyngeal space infection	3675
+paraphenylenediamine dermatitis	3676
+paraplegia	3677
+paraquat poisoning	3678
+parasigmoid colostomy hernia	3679
+parasitic diseases	3680
+parasitic urinary tract infection	3681
+parathyroid osteodystrophy	3682
+paratyphoid a	3683
+paraurethral adenocarcinoma	3684
+paravaccinia	3685
+parietal lobe tumor	3686
+parkinson syndrome in children	3687
+parkinson's disease	3688
+parkinson's disease dementia	3689
+paronychia	3690
+paronychia and subungual abscess	3691
+parosteal osteosarcoma	3692
+parotid gland malignant tumor	3693
+parotid mixed tumor	3694
+parotid space infection	3695
+paroxysmal nocturnal hemoglobinuria	3696
+paroxysmal supraventricular tachycardia	3697
+paroxysmal supraventricular tachycardia in children	3698
+paroxysmal ventricular tachycardia	3699
+paroxysmal ventricular tachycardia in children	3700
+partial	3701
+partial androgen deficiency syndrome in middle-aged and elderly men	3702
+partial anomalous pulmonary venous connection in children	3703
+parvovirus infection	3704
+passionate	3705
+pasteurella multocida infection	3706
+pasteurella pneumonia	3707
+patellar dislocation	3708
+patellar fracture	3709
+patellar instability	3710
+patellar osteochondrosis	3711
+patellar tendon rupture	3712
+patellofemoral cartilage injury	3713
+patellofemoral pain	3714
+patency of eustachian tube	3715
+patent ductus arteriosus	3716
+patent ductus arteriosus in children	3717
+pathological fracture	3718
+pathological myopia	3719
+pathological nerve damage	3720
+pathological rem sleep	3721
+pause-dependent torsade de pointes	3722
+pawpaw	3723
+pea	3724
+pea sprouts	3725
+peach kernel	3726
+peanut	3727
+peanut kernels (fried)	3728
+peanut kernels (raw)	3729
+peanuts (fried)	3730
+pear	3731
+pearly papules	3732
+pearly rash on glans penis	3733
+pectus excavatum	3734
+pediatric arrhythmia	3735
+pediatric astrocytoma	3736
+pediatric bleeding disorders	3737
+pediatric brainstem glioma	3738
+pediatric convulsions	3739
+pediatric eczema	3740
+pediatric erythroleukemia	3741
+pediatric head injury	3742
+pediatric hemangioma	3743
+pediatric leukemia	3744
+pediatric malocclusion	3745
+pediatric meningioma	3746
+pediatric non-hodgkin lymphoma	3747
+pediatric podger syndrome	3748
+pediatric psoriasis	3749
+pediatric retinoblastoma	3750
+pediatric soft tissue sarcoma	3751
+pedophilia	3752
+pellagra-like rash	3753
+pelvic abscess	3754
+pelvic congestion syndrome	3755
+pelvic connective tissue inflammation	3756
+pelvic disease	3757
+pelvic effusion	3758
+pelvic floor spasm syndrome	3759
+pelvic floor syndrome	3760
+pelvic fracture	3761
+pelvic inflammatory disease	3762
+pelvic inflammatory mass	3763
+pelvic organ prolapse during menopause	3764
+pelvic peritoneal hernia	3765
+pelvic peritoneal hernia after radical abdominoperineal resection for rectal cancer	3766
+pelvic peritonitis	3767
+pelvic rectal abscess	3768
+pelvic tumors	3769
+pemphigus	3770
+penetrating cardiac injury	3771
+penetrating cardiac trauma	3772
+penetrating eye injury	3773
+penetrating keratoplasty-induced glaucoma	3774
+penicillium	3775
+penicillium marneffei	3776
+penile amputation	3777
+penile cancer	3778
+penile fibrous cavernosis	3779
+penile fracture	3780
+penile lymphangitis	3781
+penile pearly rash	3782
+penile tuberculosis	3783
+penis torsion	3784
+pepper sores	3785
+peptic ulcer	3786
+peptic ulcer in children	3787
+peptic ulcer in the elderly	3788
+perennial rhinitis	3789
+perforated eardrum	3790
+perforating folliculitis of the nose	3791
+perianal abscess	3792
+perianal cancer	3793
+perianal eczema	3794
+perianal tumors	3795
+periarthritis of shoulder	3796
+pericardial cyst	3797
+pericardial effusion	3798
+pericardial mesothelioma	3799
+pericardial metastases	3800
+pericardial tumor	3801
+pericarditis	3802
+perifollicular fibroma	3803
+perifollicular keratosis pilaris	3804
+perimandibular cellulitis	3805
+perimenopausal syndrome	3806
+perineal hernia	3807
+perineal hernia after hysterectomy	3808
+perineal laceration	3809
+perinephric abscess	3810
+perinephritis	3811
+periodic esotropia	3812
+periodic oculomotor nerve palsy	3813
+periodontal atrophy	3814
+periodontal disease	3815
+periodontitis	3816
+perionychia	3817
+perioral dermatitis	3818
+perioral eczema	3819
+periosteal chondroma	3820
+periosteal sinus	3821
+peripartum cardiomyopathy	3822
+peripheral chondrosarcoma	3823
+peripheral nerve damage	3824
+peripheral neuritis	3825
+peripheral uveitis	3826
+peritoneal carcinomatosis	3827
+peritonitis	3828
+peritonsillar abscess	3829
+persimmon	3830
+persistent glomerulonephritis in children	3831
+persistent occipital posterior position and occipital transverse position	3832
+persistent occipital transverse dystocia	3833
+persistent occiput posterior dystocia	3834
+persistent tubal pregnancy	3835
+personality disorders	3836
+pertussis	3837
+pesticide nephropathy	3838
+pesticide poisoning	3839
+peter abnormal	3840
+petrous temporal bone inflammation	3841
+peyronie's disease	3842
+phacolytic glaucoma	3843
+phaeohyphomycosis	3844
+phalangeal fractures	3845
+pharyngeal burns	3846
+pharyngeal conjunctival heat	3847
+pharyngeal keratosis	3848
+pharyngeal leprosy	3849
+pharyngeal muscle paralysis	3850
+pharyngeal muscle spasm	3851
+pharyngeal paresthesia	3852
+pharyngeal scarring	3853
+pharyngeal tonsil hypertrophy	3854
+pharyngeal trauma	3855
+pharyngeal tuberculosis	3856
+pharyngeal vascular malformation	3857
+pharyngitis	3858
+pharyngitis in children	3859
+pharyngolaryngitis	3860
+phenol poisoning	3861
+phenothiazine antipsychotic drug poisoning	3862
+phenylketonuria	3863
+phenylketonuria in children	3864
+pheochromocytoma of the bladder	3865
+phimosis	3866
+phimosis is too long	3867
+phlebitis	3868
+phlegm poison	3869
+phobia	3870
+phobic anxiety disorder	3871
+phosphorus poisoning	3872
+photosensitive drug eruption	3873
+photosensitivity dermatitis	3874
+physical allergy	3875
+physical skin diseases	3876
+physiological ovarian cyst	3877
+pickled chinese mustard greens	3878
+pickled chives	3879
+pickled mustard greens	3880
+pickled peppers	3881
+picornavirus keratitis	3882
+pig blood	3883
+pig brain	3884
+pig head	3885
+pig heart	3886
+pig intestines	3887
+pig lung	3888
+pig small intestine	3889
+pig spleen	3890
+pig's trotter	3891
+pigeon	3892
+pigeon eggs	3893
+pigmentation	3894
+pigmentation caused by drugs or chemicals	3895
+pigmented cosmetic dermatitis	3896
+pigmented juxtavenous choroidal atrophy	3897
+pigmented mole	3898
+pigmented perioral erythema	3899
+pigmented polyposis syndrome in children	3900
+pigmented prurigo	3901
+pigmented purpuric dermatitis	3902
+pigmented purpuric lichenoid dermatitis	3903
+pigmented purpuric lichenoid dermatosis	3904
+pigmented skin diseases	3905
+pigmented spots	3906
+pigmented urticaria in children	3907
+pigmented villonodular synovitis	3908
+pilar cyst	3909
+pilomatricoma	3910
+pilonidal cyst	3911
+pilonidal sinus and pilonidal cyst	3912
+pilosebaceous cystic hamartoma	3913
+piman	3914
+pine caterpillar osteoarthritis	3915
+pine nuts	3916
+pine nuts (fried)	3917
+pineapple	3918
+pink eye	3919
+pinworm vaginitis	3920
+pitted keratolysis	3921
+pituitary adenoma	3922
+pituitary crisis and pituitary apoplexy	3923
+pituitary dwarfism	3924
+pituitary tumor	3925
+pityriasis capitis	3926
+pityriasis rosea	3927
+pityriasis rubra pilaris	3928
+pityriasis simplex	3929
+placenta previa	3930
+placental abruption	3931
+plague	3932
+plantar warts	3933
+plaque	3934
+plasma cell cheilitis	3935
+plasma cell leukemia	3936
+pleomorphic adenocarcinoma of lacrimal gland	3937
+pleomorphic adenoma of lacrimal gland	3938
+pleomorphic lipoma	3939
+pleural effusion	3940
+pleural effusion and pleurisy in the elderly	3941
+pleurisy	3942
+plummer-vinson syndrome	3943
+pneumatosis	3944
+pneumococcal meningitis	3945
+pneumococcal meningitis in children	3946
+pneumococcal pneumonia	3947
+pneumococcal sepsis	3948
+pneumocystis carinii pneumonia	3949
+pneumomediastinum	3950
+pneumonia	3951
+pneumonia in children	3952
+pneumonia in immunocompromised individuals	3953
+pneumonia in pregnancy	3954
+pneumonia in the elderly	3955
+pneumonic pleural effusion	3956
+pneumothorax	3957
+poisoning by ascaris	3958
+poisoning by sedatives, tranquilizers, and hypnotics	3959
+polio	3960
+polyarteritis nodosa	3961
+polycystic kidney disease	3962
+polycystic liver disease	3963
+polycystic ovary syndrome	3964
+polycythemia vera	3965
+polyglandular deficiency syndrome	3966
+polyhydramnios	3967
+polymyalgia rheumatica	3968
+polymyositis	3969
+polyneuritis	3970
+polyspermia	3971
+pomegranate	3972
+poncet syndrome	3973
+popliteal artery injury	3974
+popliteal artery rupture	3975
+popliteus tendinitis	3976
+popliteus tendon injury	3977
+poria	3978
+pork (fat and lean)	3979
+pork (fat)	3980
+pork (lean)	3981
+pork belly	3982
+pork kidney	3983
+pork liver	3984
+pork ribs (large ribs)	3985
+pork ribs (pork belly)	3986
+pork ribs (pork ribs)	3987
+pork rinds	3988
+pork tenderloin	3989
+porokeratosis	3990
+porphyria	3991
+porphyria cutanea tarda	3992
+porphyria peripheral neuropathy	3993
+portal hypertension	3994
+portal hypertensive enteropathy	3995
+portal hypertensive gastropathy	3996
+portal vein thrombosis	3997
+positional vertigo	3998
+post-brain injury syndrome	3999
+post-contraceptive amenorrhea syndrome	4000
+post-dysenteric syndrome	4001
+post-exam syndrome	4002
+post-hepatitis syndrome	4003
+post-infectious reactive arthritis	4004
+post-myocardial infarction pericarditis	4005
+post-polio syndrome	4006
+post-steroid panniculitis	4007
+post-traumatic carotid artery occlusion	4008
+post-traumatic cerebral fat embolism	4009
+post-traumatic encephalocele	4010
+post-traumatic headache	4011
+post-traumatic intracranial hypotension syndrome	4012
+post-traumatic pneumocephalus	4013
+post-traumatic stress disorder	4014
+postcholecystectomy syndrome	4015
+posterior achilles tendon bursitis	4016
+posterior cervical dislocation	4017
+posterior fossa ependymoma	4018
+posterior fossa ependymoma in children	4019
+posterior fossa hematoma	4020
+posterior lateral tuberosity fracture of the talus	4021
+posterior uveitis	4022
+postgastrectomy malabsorption syndrome	4023
+postmenopausal breast cancer	4024
+postmenopausal cervical cancer	4025
+postmenopausal endometrial cancer	4026
+postmenopausal osteoporosis	4027
+postmenopausal ovarian malignancy	4028
+postnasal drip syndrome	4029
+postoperative and post-traumatic pneumonia	4030
+postoperative diaphragmatic hernia	4031
+postoperative reflux gastritis	4032
+postpartum adjustment disorder	4033
+postpartum blood deficiency fever	4034
+postpartum blood stasis	4035
+postpartum collapse	4036
+postpartum depression	4037
+postpartum emergency	4038
+postpartum eye disease	4039
+postpartum food poisoning	4040
+postpartum heat stroke	4041
+postpartum hemorrhage	4042
+postpartum injury	4043
+postpartum mastitis	4044
+postpartum psychosis	4045
+postpartum rheumatism	4046
+postpartum shortness of breath	4047
+postpartum spasm	4048
+postpartum three rush	4049
+postpartum thyroiditis	4050
+postpartum urinary tract infection	4051
+postpartum weakness	4052
+postpartum wind	4053
+postprandial hypoglycemia	4054
+posttransfusion thrombocytopenic purpura	4055
+postural low back and leg pain	4056
+potassium permanganate poisoning	4057
+prawn	4058
+precocious puberty	4059
+precocious puberty in female children	4060
+precocious puberty in men	4061
+precocious puberty in women	4062
+pregnancy complicated by acquired immunodeficiency syndrome	4063
+pregnancy complicated by acute appendicitis	4064
+pregnancy complicated by acute cholecystitis	4065
+pregnancy complicated by acute cystitis	4066
+pregnancy complicated by acute glomerulonephritis	4067
+pregnancy complicated by acute pancreatitis	4068
+pregnancy complicated by acute pyelonephritis	4069
+pregnancy complicated by aplastic anemia	4070
+pregnancy complicated by atrial septal defect	4071
+pregnancy complicated by autoimmune hemolytic anemia	4072
+pregnancy complicated by cervical cancer	4073
+pregnancy complicated by chronic adrenocortical insufficiency	4074
+pregnancy complicated by chronic glomerulonephritis	4075
+pregnancy complicated by condyloma acuminatum	4076
+pregnancy complicated by diabetes	4077
+pregnancy complicated by epilepsy	4078
+pregnancy complicated by essential hypertension	4079
+pregnancy complicated by genital herpes	4080
+pregnancy complicated by hyperparathyroidism	4081
+pregnancy complicated by hyperthyroidism	4082
+pregnancy complicated by hypothyroidism	4083
+pregnancy complicated by iron deficiency anemia	4084
+pregnancy complicated by leukemia	4085
+pregnancy complicated by liver cirrhosis	4086
+pregnancy complicated by megaloblastic anemia	4087
+pregnancy complicated by myasthenia gravis	4088
+pregnancy complicated by nephrotic syndrome	4089
+pregnancy complicated by patent ductus arteriosus	4090
+pregnancy complicated by peptic ulcer	4091
+pregnancy complicated by polycystic kidney disease	4092
+pregnancy complicated by polycythemia	4093
+pregnancy complicated by rheumatic heart disease	4094
+pregnancy complicated by rheumatoid arthritis	4095
+pregnancy complicated by scleroderma	4096
+pregnancy complicated by syphilis	4097
+pregnancy complicated by systemic lupus erythematosus	4098
+pregnancy complicated by thrombotic disease	4099
+pregnancy complicated by thrombotic thrombocytopenic purpura	4100
+pregnancy complicated by urolithiasis	4101
+pregnancy complicated by uterine fibroids	4102
+pregnancy complicated by ventricular septal defect	4103
+pregnancy fever	4104
+pregnancy prurigo	4105
+pregnancy with migraine	4106
+pregnancy with ovarian tumor	4107
+pregnancy-induced hypertension	4108
+pregnancy-induced hypertension syndrome	4109
+premature babies	4110
+premature beats	4111
+premature contractions in children	4112
+premature ejaculation	4113
+premature ovarian failure	4114
+premature rupture of membranes	4115
+premature ventricular contraction	4116
+premenstrual syndrome	4117
+prepubertal periodontitis	4118
+prerenal renal failure	4119
+presbycusis	4120
+presbyopia	4121
+preserved apple	4122
+preterm birth	4123
+pretracheal space infection	4124
+prevasculitic syndrome	4125
+priapism	4126
+prickly heat	4127
+primary aldosteronism	4128
+primary amebic meningoencephalitis	4129
+primary biliary cirrhosis	4130
+primary bone lymphoma	4131
+primary brainstem injury in children	4132
+primary cardiac tumors	4133
+primary ciliary dyskinesia in children	4134
+primary concomitant esotropia	4135
+primary cutaneous amyloidosis	4136
+primary deep venous insufficiency of lower extremities	4137
+primary dysmenorrhea	4138
+primary hyperparathyroidism	4139
+primary iga nephropathy	4140
+primary immunodeficiency diseases	4141
+primary intrahepatic cirrhosis syndrome	4142
+primary liver cancer	4143
+primary lymphoma of bone	4144
+primary malignant lymphoma of small intestine	4145
+primary malignant tumor of spleen	4146
+primary mediastinal infection	4147
+primary mediastinal tumors	4148
+primary nephrotic syndrome in children	4149
+primary nonaccommodative esotropia	4150
+primary open-angle glaucoma	4151
+primary ovarian carcinoid syndrome	4152
+primary peritonitis	4153
+primary pulmonary hypertension	4154
+primary pulmonary tuberculosis syndrome	4155
+primary retinal detachment	4156
+primary retinitis pigmentosa	4157
+primary retroperitoneal tumor	4158
+primary sclerosing cholangitis	4159
+primary segmental infarction of the retina	4160
+primary small vessel vasculitis renal damage	4161
+primary syphilis	4162
+primary venous valvular insufficiency of the lower extremities	4163
+primary vesicoureteral reflux	4164
+proctitis	4165
+progressive bulbar palsy	4166
+progressive diaphyseal dysplasia	4167
+progressive hypertrophic interstitial neuritis	4168
+progressive lipodystrophy	4169
+progressive pigmented purpuric dermatosis	4170
+progressive spinal muscular atrophy	4171
+progressive supranuclear palsy	4172
+prolactinoma	4173
+prolidase deficiency	4174
+proliferative body hypertrophy	4175
+prolonged coma	4176
+pronator teres syndrome	4177
+propionic acidemia in children	4178
+prostate cancer	4179
+prostate cyst	4180
+prostate disease	4181
+prostate sarcoma	4182
+prostate stones	4183
+prostatic abscess	4184
+prostatic hyperplasia	4185
+prostatitis	4186
+protein deficiency	4187
+protein-energy malnutrition	4188
+protein-energy malnutrition in children	4189
+protein-losing gastroenteropathy	4190
+protein-losing gastrointestinal syndrome	4191
+proteinuria	4192
+proteus food poisoning	4193
+proteus pneumonia	4194
+protoporphyria	4195
+protracted and chronic diarrhea in children	4196
+protruding eyes	4197
+proximal (type ii) renal tubular acidosis	4198
+proximal fibula fracture	4199
+prurigo nodularis	4200
+pruritus	4201
+pseudoacanthosis nigricans	4202
+pseudoaneurysm	4203
+pseudocondyloma acuminatum	4204
+pseudoepitheliomatous hyperplasia of vulva	4205
+pseudofolliculitis barbae	4206
+pseudogouty arthritis	4207
+pseudohypertension	4208
+pseudohypoparathyroidism	4209
+pseudohypoparathyroidism with osteitis fibrosa cystica	4210
+pseudomembranous enterocolitis	4211
+pseudomonas aeruginosa corneal ulcer	4212
+pseudomonas aeruginosa infection	4213
+pseudomonas aeruginosa keratitis	4214
+pseudomonas aeruginosa pneumonia	4215
+pseudomonas cepacia pneumonia	4216
+pseudomonas infection	4217
+pseudomonas pseudomallei pneumonia	4218
+pseudomyxoma peritonei	4219
+pseudoxanthoma elasticum in children	4220
+psoriasis	4221
+psoriatic arthritis	4222
+psoriatic arthritis and associated uveitis	4223
+psoriatic nails	4224
+psychiatric disorders associated with epilepsy	4225
+psychiatric disorders associated with polymyositis and dermatomyositis	4226
+psychiatric disorders associated with systemic lupus erythematosus	4227
+psychoactive substance-induced mental disorders	4228
+psychosis due to systemic lupus erythematosus	4229
+pterygium	4230
+pterygomandibular space infection	4231
+ptosis	4232
+pubic lice	4233
+pubic tuberculosis	4234
+puborectalis syndrome	4235
+puerperal infection	4236
+pulmonary actinomycosis	4237
+pulmonary alveolar proteinosis	4238
+pulmonary arteriovenous aneurysm	4239
+pulmonary arteriovenous fistula	4240
+pulmonary aspergillosis	4241
+pulmonary atresia	4242
+pulmonary atresia with intact ventricular septum in children	4243
+pulmonary candidiasis	4244
+pulmonary disease	4245
+pulmonary edema	4246
+pulmonary edema in children	4247
+pulmonary embolism	4248
+pulmonary embolism and pulmonary infarction	4249
+pulmonary embolism during pregnancy	4250
+pulmonary embolism in children	4251
+pulmonary embolism in the elderly	4252
+pulmonary encephalopathy	4253
+pulmonary encephalopathy in the elderly	4254
+pulmonary fibrosis	4255
+pulmonary fungal disease	4256
+pulmonary hypertension	4257
+pulmonary hypertension in children	4258
+pulmonary malaria	4259
+pulmonary nodules	4260
+pulmonary pleural amebiasis	4261
+pulmonary pseudotumor	4262
+pulmonary regurgitation	4263
+pulmonary sequestration in children	4264
+pulmonary sporotrichosis	4265
+pulmonary tuberculoma	4266
+pulpitis	4267
+pulsatile exophthalmos	4268
+pulse bi	4269
+pulse overflow	4270
+pulse weakness	4271
+pumpkin	4272
+pumpkin seeds	4273
+punctate epiphyseal dysplasia	4274
+punctate inner choroidopathy	4275
+puncture abscess folliculitis and perifolliculitis	4276
+pure autonomic failure	4277
+pure red cell aplasia	4278
+pure red cell aplasia in children	4279
+purpura	4280
+purpura fulminans	4281
+purpura nephritis	4282
+purpura simplex	4283
+purulent auricular perichondritis	4284
+purulent dactylitis	4285
+purulent keratitis	4286
+purulent meningitis	4287
+purulent paronychia	4288
+purulent tonsillitis	4289
+purulent uveitis	4290
+pustular bacterial rash	4291
+puva lentigo	4292
+pyelonephritis	4293
+pyloric obstruction	4294
+pyoderma gangrenosum	4295
+pyonephrosis	4296
+pyrazolone poisoning	4297
+pyrethroid poisoning	4298
+pyruvate kinase deficiency	4299
+qi and yin deficiency	4300
+qi constipation	4301
+qi deficiency and blood stasis syndrome	4302
+qi deficiency and spontaneous sweating	4303
+qi deficiency dizziness	4304
+qigong-induced mental disorders	4305
+quail eggs	4306
+quail meat	4307
+quinine poisoning	4308
+rabbit	4309
+rabies	4310
+radial and ulnar styloid fractures	4311
+radial capitellum epiphysis separation	4312
+radial head fracture	4313
+radial neck fracture	4314
+radial neck fracture and radial head epiphysis separation	4315
+radial nerve injury	4316
+radial nerve palsy	4317
+radial shaft fracture	4318
+radial styloid fracture	4319
+radial styloid stenosing tenosynovitis	4320
+radial tunnel syndrome	4321
+radiation damage to the nervous system	4322
+radiation dermatitis	4323
+radiation enteritis	4324
+radiation osteomyelitis of the jaw	4325
+radiation peripheral neuropathy	4326
+radiation pneumonitis	4327
+radiation sickness	4328
+radiation stomatitis	4329
+radiculitis	4330
+radish	4331
+radius and ulna fractures	4332
+radius fracture	4333
+rape	4334
+rapeseed	4335
+rapeseed heart	4336
+rapidly progressive glomerulonephritis	4337
+rapidly progressive glomerulonephritis in children	4338
+rapidly progressive nephritis	4339
+raynaud's disease	4340
+raynaud's syndrome	4341
+razor clams	4342
+reactive arthritis	4343
+rectal atresia	4344
+rectal cancer	4345
+rectal endometriosis	4346
+rectal injury	4347
+rectal intussusception	4348
+rectal polyps	4349
+rectal prolapse	4350
+rectal prolapse vertical intestinal hernia	4351
+rectocele	4352
+rectovaginal fistula	4353
+recurrent aphthous ulcer	4354
+recurrent cervical cancer	4355
+recurrent herpes	4356
+recurrent inguinal hernia	4357
+recurrent laryngeal nerve injury	4358
+recurrent miscarriage	4359
+recurrent ulcers	4360
+red bean paste	4361
+red butterfly sore	4362
+red membrane prolapse	4363
+red pepper	4364
+red veins	4365
+red veins transmit the eyes	4366
+red wine	4367
+reexpansion pulmonary edema	4368
+reflux esophagitis	4369
+reflux laryngitis	4370
+reflux nephropathy	4371
+refractive error	4372
+refractory epilepsy	4373
+refractory heart failure	4374
+reis-bucklers corneal dystrophy	4375
+reiter's syndrome scleritis	4376
+relapsing fever	4377
+relapsing rheumatic disease	4378
+relative polycythemia	4379
+renal abscess	4380
+renal aminoaciduria in children	4381
+renal amyloidosis	4382
+renal amyloidosis in children	4383
+renal anemia in children	4384
+renal arteriovenous fistula	4385
+renal artery aneurysm	4386
+renal artery embolism	4387
+renal artery occlusion	4388
+renal artery stenosis	4389
+renal artery thrombosis and embolism	4390
+renal cell carcinoma	4391
+renal colic	4392
+renal cortical abscess	4393
+renal cortical medullary abscess	4394
+renal cortical suppurative infection	4395
+renal damage in rheumatoid arthritis	4396
+renal dysgenesis	4397
+renal edema	4398
+renal failure	4399
+renal hamartoma	4400
+renal insufficiency	4401
+renal pelvis cancer	4402
+renal tuberculosis	4403
+renal tubular acidosis	4404
+renal tubular acidosis in children	4405
+renal vein thrombosis in children	4406
+renovascular hypertension	4407
+renovascular hypertension in children	4408
+replantation of severed fingers	4409
+replantation of severed limbs	4410
+residual sinus syndrome	4411
+respiratory acidosis	4412
+respiratory alkalosis	4413
+respiratory bronchiolar-associated interstitial lung disease	4414
+respiratory diseases	4415
+respiratory failure	4416
+respiratory failure in children	4417
+respiratory failure in the elderly	4418
+respiratory syncytial virus infection	4419
+respiratory syncytial virus pneumonia	4420
+respiratory tract infections	4421
+respiratory tuberculosis	4422
+restless legs syndrome	4423
+restrictive cardiomyopathy	4424
+restrictive cardiomyopathy in children	4425
+restrictive heart disease	4426
+reticular erythematous atrophic folliculitis	4427
+reticulum cell sarcoma	4428
+retinal artery occlusion	4429
+retinal detachment	4430
+retinal periphlebitis	4431
+retinal pigment epitheliitis	4432
+retinal vein occlusion	4433
+retinitis	4434
+retinitis pigmentosa	4435
+retinoblastoma	4436
+retinopathy due to blocked or narrowed arteries	4437
+retrobulbar neuritis	4438
+retrocaval ureter	4439
+retroperitoneal abscess	4440
+retroperitoneal fibrosis	4441
+retroperitoneal hematoma	4442
+retroperitoneal lipoma	4443
+retroperitoneal tumors	4444
+retropharyngeal abscess	4445
+retropharyngeal diverticulum	4446
+reversal of spasm	4447
+reverse	4448
+reye's syndrome	4449
+rh incompatibility	4450
+rh incompatibility hemolytic disease	4451
+rhabdomyosarcoma	4452
+rheumatic anemia	4453
+rheumatic bone disease	4454
+rheumatic chorea	4455
+rheumatic diseases	4456
+rheumatic fever	4457
+rheumatic fever in children	4458
+rheumatic heart disease	4459
+rheumatic mitral regurgitation	4460
+rheumatic mitral stenosis	4461
+rheumatic vasculitis	4462
+rheumatism	4463
+rheumatism and immune diseases	4464
+rheumatoid arthritis	4465
+rheumatoid arthritis in the elderly	4466
+rheumatoid arthritis renal damage	4467
+rheumatoid arthritis scleritis in adults	4468
+rhinitis	4469
+rhinogenic headache	4470
+rhinoplasty	4471
+rhinosclerosis	4472
+rhinosporidiosis	4473
+rib fractures	4474
+rib osteomyelitis	4475
+riboflavin deficiency	4476
+rice cake	4477
+rice farmer dermatitis	4478
+rice wine	4479
+rickets	4480
+rickettsial diseases	4481
+rickettsial spotted fever	4482
+rickettsialpox	4483
+rift valley fever	4484
+right bundle branch block	4485
+right ventricular infarction	4486
+ring jump carbuncle	4487
+ringworm	4488
+ringworm rash	4489
+river mussels	4490
+river prawn	4491
+river snail	4492
+roast duck	4493
+rodenticide poisoning	4494
+rooster	4495
+rosary hair	4496
+roseola infantum	4497
+rotational heterophoria	4498
+rotator cuff injury	4499
+rotator cuff tendinitis	4500
+rotavirus enteritis	4501
+rotavirus enteritis in children	4502
+rotavirus gastroenteritis	4503
+rubella	4504
+ruffian	4505
+running pig qi	4506
+ruolao	4507
+ruptured ovarian corpus luteum cyst	4508
+ruptured ovarian tumor	4509
+ruptured tubal pregnancy	4510
+sacral fracture	4511
+sacrococcygeal teratoma	4512
+sacrococcygeal teratoma in children	4513
+sacroiliac fascia fat herniation	4514
+sacroiliac joint sprain	4515
+sacroiliac joint sprain or subluxation	4516
+sacroiliac joint tuberculosis	4517
+safflower	4518
+sagging skin	4519
+sago	4520
+salicylate poisoning	4521
+salivary fistula	4522
+salivary gland cancer	4523
+salivary gland cyst	4524
+salivation obsessive compulsive disorder	4525
+salmon	4526
+salmonella enteritis	4527
+salmonella food poisoning	4528
+salmonella pneumonia	4529
+salt-losing nephritis	4530
+salted duck eggs	4531
+salted fish	4532
+sarcoid cardiomyopathy	4533
+sarcoidosis	4534
+sarcoma	4535
+sardine	4536
+sars	4537
+sausage	4538
+scabies	4539
+scald	4540
+scallops	4541
+scallops (fresh)	4542
+scalp and skull burns	4543
+scalp avulsion	4544
+scalp damage	4545
+scalp hematoma	4546
+scalp infection	4547
+scalp mole	4548
+scanty menstruation	4549
+scaphoid fracture	4550
+scapula body fracture	4551
+scapular neck and glenoid fractures	4552
+scar	4553
+scar cancer	4554
+scarlet fever	4555
+scarlet fever erythema	4556
+scarring alopecia	4557
+scarring entropion	4558
+schistosomiasis	4559
+schistosomiasis and hepatobiliary diseases	4560
+schistosomiasis haematobium	4561
+schizoaffective disorder	4562
+schizophrenia	4563
+schizophrenia in children	4564
+schmerz's nodes	4565
+schwannoma	4566
+sciatic hernia	4567
+sciatic nerve injury	4568
+sciatica	4569
+scleredema in adults	4570
+scleritis	4571
+scleroderma	4572
+scleroderma in children	4573
+scoliosis	4574
+scorpion sting	4575
+screw vegetable	4576
+scrofula	4577
+scrotal cancer	4578
+scrotal eczema	4579
+scrotal filariasis	4580
+scrotal injury	4581
+scrub typhus	4582
+sea bass	4583
+sea clams	4584
+sea crab	4585
+sea cucumber	4586
+sea cucumber (soaked in water)	4587
+sea lettuce	4588
+sebaceous cyst	4589
+sebaceous cyst disease	4590
+sebaceous epithelioma	4591
+sebaceous gland carcinoma of eyelid	4592
+sebaceous nevus	4593
+seborrheic alopecia	4594
+seborrheic dermatitis	4595
+seborrheic dermatitis of the scalp	4596
+seborrheic dermatitis of vulvar skin	4597
+sebum deficiency	4598
+secondary adrenal insufficiency	4599
+secondary dysmenorrhea	4600
+secondary ear	4601
+secondary glaucoma with iridocyclitis	4602
+secondary hyperparathyroidism	4603
+secondary leukemia	4604
+secondary mediastinal infection	4605
+secondary peritonitis	4606
+secondary pulmonary tuberculosis	4607
+secondary sideroblastic anemia	4608
+secondary suppurative peritonitis	4609
+secondary syphilis	4610
+secretory otitis media	4611
+seizure-induced aphasia syndrome in children	4612
+seizures and convulsions	4613
+selective iga deficiency	4614
+semilunar hernia	4615
+seminal vesicle cyst	4616
+seminal vesiculitis	4617
+senile chorea	4618
+senile coma	4619
+senile ectropion	4620
+senile epilepsy	4621
+senile purpura	4622
+senile skin atrophy	4623
+senile vaginitis	4624
+senile vulvar atrophy	4625
+sentinel hemorrhoids	4626
+separation anxiety disorder in children	4627
+separation of the epiphysis of the upper humerus	4628
+sepsis and bacteremia	4629
+sepsis in the elderly	4630
+sepsis renal damage	4631
+septal hematoma	4632
+septal hematoma and abscess	4633
+septic arthritis	4634
+septic shock	4635
+septic shock in children	4636
+septic shock in the elderly	4637
+septicemia	4638
+septum pellucidum cyst	4639
+sequelae of encephalitis	4640
+serpiginous corneal ulcer	4641
+serratia pneumonia	4642
+serum sickness	4643
+serum sickness and serum sickness-like reactions	4644
+serum sickness in children	4645
+serum urticaria	4646
+sesame	4647
+sesame leaves	4648
+severe acute respiratory syndrome	4649
+severe fatty liver	4650
+severe hemoptysis	4651
+sexual arousal disorders	4652
+sexual disorders	4653
+sexual dysfunction	4654
+sexual dysfunction in older men	4655
+sexual indifference	4656
+sexual perversion	4657
+sexual psychological disorders	4658
+sha qi	4659
+shallots	4660
+shazi	4661
+sheehan syndrome	4662
+sheep blood	4663
+sheep bones	4664
+sheep fat	4665
+sheep intestines (large intestine)	4666
+sheep pox	4667
+sheep tripe	4668
+shepherd's purse	4669
+shepherd's purse root	4670
+shiitake mushrooms (dried)	4671
+shiitake mushrooms (fresh)	4672
+shingles	4673
+shock	4674
+shock in children	4675
+shock in the elderly	4676
+short neck deformity	4677
+short-path arthritis-dermatitis syndrome	4678
+shortsighted	4679
+shoulder dislocation	4680
+shoulder instability	4681
+shoulder tuberculosis	4682
+shoulder-hand syndrome	4683
+shrimp	4684
+shy-drager syndrome	4685
+sichuan peppercorn	4686
+sick building syndrome	4687
+sick sinus syndrome	4688
+sick sinus syndrome in children	4689
+sickle cell anemia	4690
+sickle cell anemia eye disease	4691
+sickle cell nephropathy	4692
+side pain	4693
+siderosis	4694
+sigmoid colon cancer	4695
+sigmoid sinus thrombophlebitis	4696
+sigmoid volvulus	4697
+silent myocardial ischemia	4698
+silicosis	4699
+silkie	4700
+silver carp	4701
+simple atlantoaxial dislocation	4702
+simple breast hyperplasia	4703
+simple cyst of breast	4704
+simple goiter	4705
+simple goiter in children	4706
+simple hematuria in children	4707
+simple lentigo	4708
+simple obesity	4709
+simple periodontitis	4710
+simple pulmonary artery stenosis in children	4711
+simple pulmonary eosinophilic infiltration	4712
+simple red cell aplastic anemia	4713
+simple renal cyst	4714
+simple renal ectopia	4715
+simple schizophrenia	4716
+simple spinal tuberculosis	4717
+simple varicose veins of lower extremities	4718
+simple vulvitis	4719
+single atrium	4720
+single episode of depression	4721
+single ventricle	4722
+sinus arrest	4723
+sinus arrhythmia	4724
+sinus arrhythmia in children	4725
+sinus barotrauma	4726
+sinus bradycardia	4727
+sinus bradycardia in children	4728
+sinus mucocele	4729
+sinus mucosal cyst	4730
+sinus tachycardia	4731
+sinus tachycardia in children	4732
+sinus trauma	4733
+sinusitis	4734
+six tumors	4735
+sjögren's syndrome	4736
+skeletal fluorosis	4737
+skin allergies	4738
+skin cancer	4739
+skin cysts	4740
+skin disease	4741
+skin diseases caused by arsenic and its compounds	4742
+skin diseases caused by beryllium and its compounds	4743
+skin diseases caused by chromium and its compounds	4744
+skin diseases caused by fiberglass	4745
+skin diseases caused by inorganic salts	4746
+skin diseases caused by nickel and its compounds	4747
+skin diseases caused by rubber products	4748
+skin diseases caused by selenium and its compounds	4749
+skin diseases caused by vanadium and its compounds	4750
+skin dysplasia	4751
+skin infections caused by haemophilus influenzae	4752
+skin leiomyoma	4753
+skin manifestations of df-2 sepsis	4754
+skin paralysis	4755
+skin warts	4756
+skull fracture	4757
+skull fractures and related deformities	4758
+skull osteoma	4759
+skull osteomyelitis	4760
+skull tuberculosis	4761
+sleep apnea syndrome	4762
+sleep disorders	4763
+sleep disorders in children	4764
+sleep disorders in the elderly	4765
+sleep-related epilepsy	4766
+sleeping pill poisoning	4767
+sleepwalking	4768
+sliding inguinal hernia	4769
+slow convulsions	4770
+small cell lung cancer	4771
+small cell ovarian cancer	4772
+small intestinal adenocarcinoma	4773
+small intestinal adenoma	4774
+small intestinal carcinoid	4775
+small intestinal damage	4776
+small intestinal fibroma	4777
+small intestinal hemangioma	4778
+small intestinal leiomyoma	4779
+small intestinal lipoma	4780
+small intestinal tumors	4781
+small intestinal volvulus	4782
+small intestine cold	4783
+small intestine prolapse	4784
+small penis	4785
+small yellow croaker	4786
+smallpox	4787
+smooth muscle hamartoma	4788
+snake bites	4789
+snake melon	4790
+snakehead	4791
+snapping shoulder blades	4792
+snoring	4793
+snow blindness	4794
+social phobia	4795
+sodium pentachlorophenol poisoning	4796
+soft tissue sarcoma	4797
+soft tissue tumors	4798
+softening spots	4799
+solar dermatitis	4800
+solar lentigo	4801
+solitary osteochondroma	4802
+solitary trichomonoma	4803
+somatic neuropathy	4804
+somatoform disorders	4805
+somatosensory disturbances	4806
+somatostatinoma	4807
+songhua eggs (duck eggs)	4808
+sore throat	4809
+sour cabbage	4810
+soy milk	4811
+soybean	4812
+soybean powder	4813
+soybean sprouts	4814
+sparrow	4815
+sparse dentition	4816
+spasm	4817
+spasmodic torticollis	4818
+spastic cerebral palsy	4819
+spastic ileus	4820
+specific renal parenchymal diseases	4821
+speech and language disorders	4822
+speech and language disorders in children	4823
+speech disorders	4824
+sperm stasis syndrome	4825
+spermatic cord malignancy	4826
+sphenoid ridge meningioma	4827
+sphenoid sinus malignancy	4828
+sphenoid sinusitis	4829
+spherical pneumonia	4830
+sphincter of oddi dysfunction	4831
+spider bites	4832
+spina bifida	4833
+spina bifida and related malformations	4834
+spinach	4835
+spinal arachnoiditis	4836
+spinal chancre	4837
+spinal cord compression	4838
+spinal cord firearm injury	4839
+spinal cord injury	4840
+spinal cord tumors	4841
+spinal disease	4842
+spinal disorders	4843
+spinal fractures	4844
+spinal stenosis	4845
+spinal suppurative osteomyelitis	4846
+spinal trauma	4847
+spinal tuberculosis	4848
+spinal tuberculosis complicated by paraplegia	4849
+spinal tuberculosis complicated by sinus tract	4850
+spinal tuberculosis kyphosis	4851
+spinal vascular disease	4852
+spinal vascular malformations	4853
+spindle cell hemangioendothelioma	4854
+spindle cell lipoma	4855
+spindle cell tumor	4856
+spine and spinal cord injury	4857
+spinocerebellar degeneration	4858
+spinous process bursitis	4859
+spinous process fracture	4860
+spleen	4861
+spleen deficiency diarrhea	4862
+spleen fatigue	4863
+spleen water	4864
+spleen-liver syndrome	4865
+splenic infarction	4866
+splenic malnutrition	4867
+splenic rupture	4868
+splenic trauma in children	4869
+splenomegaly	4870
+splenomegaly in children	4871
+spondylitis	4872
+spondylolysis	4873
+spontaneous abortion	4874
+spontaneous esophageal rupture	4875
+spontaneous hemothorax	4876
+spontaneous pneumothorax in the elderly	4877
+spontaneous rupture of tuberculous bladder	4878
+sporadic encephalitis	4879
+sporadic goiter in children	4880
+sporotrichosis	4881
+spotted albinism	4882
+spring bamboo shoots	4883
+spring catarrhal conjunctivitis	4884
+spring conjunctivitis	4885
+sprouting potato poisoning	4886
+sputum	4887
+squamous cell carcinoma	4888
+squash	4889
+squid (fresh)	4890
+st. louis encephalitis	4891
+stable angina	4892
+stagnation	4893
+staphylococcal food poisoning	4894
+staphylococcal infection	4895
+staphylococcal marginal keratitis	4896
+staphylococcal meningitis	4897
+staphylococcal pneumonia	4898
+staphylococcal toxic shock syndrome	4899
+staphylococcus aureus enteritis	4900
+staphylococcus aureus pneumonia	4901
+staphylococcus aureus pneumonia in children	4902
+staphylococcus epidermidis pneumonia	4903
+star barrier	4904
+stasis dermatitis	4905
+status asthmaticus	4906
+status epilepticus	4907
+stds	4908
+steamed bun	4909
+sternoclavicular dislocation	4910
+sternum fracture	4911
+steroid myopathy	4912
+steroid-induced femoral head necrosis	4913
+stomach ache	4914
+stomach cold	4915
+stomach cramps	4916
+stomach disease	4917
+stomach upset	4918
+stomatitis	4919
+strabismus	4920
+strawberry hemangioma	4921
+stream	4922
+streptococcal group a infection	4923
+streptococcal group b infection	4924
+streptococcal infection	4925
+streptococcal pharyngitis	4926
+streptococcus intermedius infection	4927
+streptococcus milleri pneumonia	4928
+streptococcus pneumonia in children	4929
+stress ulcer	4930
+stress urinary incontinence	4931
+stretch marks	4932
+striated osteoma	4933
+striatonigral degeneration	4934
+stroke	4935
+stromal keratitis	4936
+strong acid and alkali poisoning	4937
+strong acid poisoning	4938
+strongyloidiasis	4939
+sturgeon	4940
+stuttering in children	4941
+stye	4942
+sub-health	4943
+subacromial bursitis	4944
+subacute combined degeneration of the spinal cord	4945
+subacute infective endocarditis	4946
+subacute necrotizing myelitis	4947
+subacute osteomyelitis in children	4948
+subacute thyroiditis	4949
+subacute thyroiditis in children	4950
+subarachnoid hemorrhage	4951
+subclavian-axillary artery aneurysm	4952
+subcutaneous fat granuloma	4953
+subcutaneous lipoma	4954
+subcutaneous panniculitis t-cell lymphoma	4955
+subcutaneous sparganosis	4956
+subdiaphragmatic colonic embedding syndrome	4957
+subdural abscess	4958
+subdural hematoma	4959
+subgaleal abscess	4960
+sublingual gland cyst	4961
+sublingual space infection	4962
+submandibular space infection	4963
+submental space infection	4964
+subperiosteal abscess behind the ear	4965
+subperiosteal orbital abscess	4966
+subphrenic abscess	4967
+subserosal fibroids	4968
+sudden cardiac death syndrome	4969
+sudden coronary heart disease	4970
+sudden deafness	4971
+sugar osmanthus	4972
+summer dermatitis	4973
+sun disease	4974
+sunburn	4975
+sunflower seeds	4976
+sunflower seeds (raw)	4977
+superficial acute lymphadenitis and lymphangitis	4978
+superficial gastritis	4979
+superficial phlebitis	4980
+superficial punctate keratitis	4981
+superficial thrombophlebitis of extremities	4982
+superior mesenteric artery embolism	4983
+superior mesenteric artery syndrome	4984
+superior mesenteric vein thrombosis	4985
+superior phoria	4986
+superior sagittal sinus thrombophlebitis	4987
+superior vena cava syndrome	4988
+suppurative esophagitis	4989
+suppurative osteomyelitis	4990
+suppurative tenosynovitis	4991
+supracondylar femoral fracture	4992
+supracondylar humeral fracture	4993
+supraorbital neuralgia	4994
+suprasellar germ cell tumor	4995
+suprasellar germ cell tumor in children	4996
+supraspinal ligament injury	4997
+surgery for lymphangioma	4998
+surgery for sebaceous cysts	4999
+swallowed foreign objects	5000
+sweating	5001
+sweet almond	5002
+swelling	5003
+sympathetic cervical spondylosis	5004
+sympathetic ophthalmia	5005
+symptomatic epilepsy syndromes	5006
+symptoms	5007
+syncope	5008
+syncope during sexual intercourse	5009
+syndrome of inappropriate antidiuretic hormone secretion	5010
+syndrome of syndrome	5011
+syndrome x	5012
+synovial cyst	5013
+synovial sarcoma	5014
+synovitis	5015
+syphilis	5016
+syphilitic arthritis	5017
+syphilitic cardiovascular disease	5018
+syphilitic keratopathy	5019
+syphilitic osteochondritis	5020
+syphilitic scleritis	5021
+syphilitic uveitis	5022
+syringoma	5023
+syringomyelia	5024
+systemic candidiasis	5025
+systemic exanthematous histiocytosis	5026
+systemic idiopathic telangiectasia	5027
+systemic lipodystrophy	5028
+systemic lupus erythematosus	5029
+systemic lupus erythematosus arthritis	5030
+systemic lupus erythematosus in children	5031
+systemic lupus erythematosus scleritis	5032
+systemic suppurative infection	5033
+systemic vasculitis	5034
+systolic hypertension in the elderly	5035
+tachycardia cardiomyopathy	5036
+takayasu arteritis	5037
+takayasu arteritis in children	5038
+talc pneumoconiosis	5039
+talus fracture	5040
+talus fracture dislocation	5041
+tapeworm disease	5042
+tar melanosis	5043
+tardive dyskinesia	5044
+targetoid hemosiderin-containing hemangioma	5045
+taro	5046
+tea	5047
+tea caterpillar dermatitis	5048
+telangiectatic purpura annulare	5049
+telogen effluvium	5050
+temporal arteritis	5051
+temporal bone fracture	5052
+temporal lobe tumors	5053
+temporal space infection	5054
+temporomandibular joint ankylosis	5055
+temporomandibular joint dislocation	5056
+tendinitis and tenosynovitis	5057
+tendinopathy	5058
+tendon injury in the hand	5059
+tendonitis	5060
+tenosynovitis	5061
+tension headaches	5062
+tertiary syphilis	5063
+testicular cancer	5064
+testicular cyst	5065
+testicular hydrocele	5066
+testicular injury	5067
+testicular malformation	5068
+testicular teratoma	5069
+testicular torsion in children	5070
+testicular tumors	5071
+tetanus	5072
+tetracycline tetracycline	5073
+tetralogy of fallot	5074
+tetralogy of fallot in children	5075
+thalassemia	5076
+thermal burns	5077
+thick blood	5078
+thin glomerular basement membrane disease	5079
+third lumbar transverse process syndrome	5080
+third ventricle tumor	5081
+thoracic and lumbar burst fractures	5082
+thoracic aortic aneurysm	5083
+thoracic aortic dissecting aneurysm	5084
+thoracic disc herniation	5085
+thoracic facet joint disorder	5086
+thoracic outlet syndrome	5087
+thoracic spinal stenosis	5088
+thoracic spondylosis	5089
+thoracic tuberculosis paraspinal abscess penetrates into the thoracic cavity	5090
+thoracic vertebrae fracture	5091
+thoracolumbar fractures	5092
+threatened abortion	5093
+three bi	5094
+three highs	5095
+throat burns and chemical injuries	5096
+throat cancer	5097
+throat sores	5098
+throat stab wound	5099
+throat trauma	5100
+thromboangiitis obliterans	5101
+thrombocytopenia	5102
+thrombocytopenic purpura	5103
+thrombophlebitis	5104
+thrombosis	5105
+thrombosthenia	5106
+thrombosthenia in children	5107
+thrombotic diseases in the elderly	5108
+thrombotic thrombocytopenic purpura	5109
+thrombotic thrombocytopenic purpura in children	5110
+thrush	5111
+thumb reconstruction	5112
+thunderstorm	5113
+thymic carcinoma	5114
+thymic cyst	5115
+thymoma	5116
+thyroglossal cysts and fistulas	5117
+thyroglossal duct cyst and branchial cleft cyst	5118
+thyroglossal duct cyst and fistula	5119
+thyrohyoid cyst and fistula	5120
+thyroid adenoma	5121
+thyroid cancer	5122
+thyroid cancer in the elderly	5123
+thyroid cyst	5124
+thyroid disease	5125
+thyroid hemangioma	5126
+thyroid hormone resistance syndrome	5127
+thyroid microcarcinoma	5128
+thyroid nodules	5129
+thyroid tuberculosis	5130
+thyroid tumors	5131
+thyroiditis	5132
+tibia and fibula fractures	5133
+tibial and fibula fractures	5134
+tibial and fibular shaft fractures	5135
+tibial condyle fracture	5136
+tibial plateau fracture	5137
+tibial tuberosity osteochondrosis	5138
+tic disorders	5139
+tic disorders in children	5140
+tilapia	5141
+tin pneumoconiosis	5142
+tinea capitis	5143
+tinea corporis	5144
+tinea cruris	5145
+tinea pedis	5146
+tinea versicolor	5147
+tinnitus	5148
+toadstool poisoning	5149
+tobacco dependence syndrome	5150
+tofu	5151
+tofu pudding	5152
+tomato	5153
+tongue cancer	5154
+tongue disease	5155
+tongue numbness during menstruation	5156
+tonsil stones	5157
+tonsillar cancer	5158
+tonsillar herniation	5159
+tonsillitis	5160
+too much sodium	5161
+toon	5162
+tooth fracture	5163
+tooth hypersensitivity	5164
+tooth loss	5165
+tooth sensitivity	5166
+tooth trauma	5167
+tophi	5168
+torticollis	5169
+total anomalous pulmonary venous return	5170
+tourette syndrome	5171
+tourette syndrome in children	5172
+toxic amblyopia	5173
+toxic dizziness	5174
+toxic heat invades the skin	5175
+toxic necrotic epidermolytic drug eruption	5176
+toxic nephropathy	5177
+toxic nodular goiter	5178
+toxic shock syndrome	5179
+toxoplasmosis	5180
+tracheal and bronchial stenosis	5181
+tracheal obstruction	5182
+tracheal tumors	5183
+tracheobronchial foreign bodies	5184
+trachoma	5185
+transient hypogammaglobulinemia of infancy	5186
+transient ischemic attack	5187
+transperitoneal hernia	5188
+transverse dystocia	5189
+trauma to the tympanic membrane	5190
+trauma-related glaucoma	5191
+traumatic arthritis	5192
+traumatic asphyxia	5193
+traumatic asphyxia syndrome	5194
+traumatic bile duct injury	5195
+traumatic brain abscess	5196
+traumatic breast fat necrosis	5197
+traumatic breast hematoma	5198
+traumatic cardiogenic hemolytic anemia	5199
+traumatic carotid cavernous fistula	5200
+traumatic carotid embolism	5201
+traumatic cataract	5202
+traumatic cerebrospinal fluid leak	5203
+traumatic chylothorax	5204
+traumatic degenerative arthritis of cervical facet joints	5205
+traumatic diaphragmatic hernia	5206
+traumatic elbow arthritis	5207
+traumatic epilepsy	5208
+traumatic epistaxis	5209
+traumatic fat necrosis	5210
+traumatic hearing loss	5211
+traumatic hemothorax	5212
+traumatic hydrocephalus	5213
+traumatic intracranial hypotension syndrome	5214
+traumatic myositis ossificans	5215
+traumatic nasal septum perforation	5216
+traumatic osteomyelitis	5217
+traumatic pneumothorax	5218
+traumatic posterior shoulder dislocation	5219
+traumatic retroperitoneal hemorrhage or hematoma	5220
+traumatic rupture of the spleen	5221
+traumatic shock	5222
+traumatic stomatitis	5223
+traumatic subdural effusion	5224
+traumatic synovitis of the knee	5225
+traumatic tracheal and main bronchial injury	5226
+traumatic ulcer	5227
+traumatic vertebral artery embolism	5228
+travel psychosis	5229
+traveler's diarrhea	5230
+tremella (dried)	5231
+tremor	5232
+trichinellosis	5233
+trichoacanthoma	5234
+trichoblastoma	5235
+trichodiscal tumor	5236
+tricholithiasis ileus syndrome	5237
+trichomonas balanitis	5238
+trichomonas vaginitis	5239
+trichomonas vulvitis	5240
+trichomoniasis	5241
+trichosporonosis	5242
+trichostrongylus infection	5243
+tricuspid atresia	5244
+tricuspid insufficiency	5245
+tricuspid regurgitation	5246
+tricuspid stenosis	5247
+trigeminal neuralgia	5248
+trilogy of fallot	5249
+triple burner cough	5250
+tropical eosinophilia in children	5251
+tropical spastic paraparesis	5252
+tropical sprue	5253
+trypophobia	5254
+tsutsugamushi pneumonia	5255
+tubal pregnancy	5256
+tubal pregnancy abortion	5257
+tubal tuberculosis	5258
+tuberculosis	5259
+tuberculosis in children	5260
+tuberculosis in the elderly	5261
+tuberculosis of bones and joints in children	5262
+tuberculosis of cervical lymph nodes	5263
+tuberculosis of tarsal bones and surrounding joints	5264
+tuberculosis of the urethra and penis	5265
+tuberculous bladder contracture	5266
+tuberculous cervicitis	5267
+tuberculous dry pleurisy	5268
+tuberculous empyema	5269
+tuberculous lichen	5270
+tuberculous meningitis	5271
+tuberculous meningitis in children	5272
+tuberculous mesenteric lymphadenitis	5273
+tuberculous otomastoiditis	5274
+tuberculous pericarditis	5275
+tuberculous pericarditis in children	5276
+tuberculous peritonitis	5277
+tuberculous pleurisy	5278
+tuberculous scleritis	5279
+tuberculous ulcer	5280
+tuberculous vaginitis	5281
+tuberculum sellae meningioma	5282
+tuberous sclerosis	5283
+tuberous sclerosis complex	5284
+tubulointerstitial nephritis in children	5285
+tubulointerstitial nephritis uveitis syndrome	5286
+tufted hemangioma	5287
+tumor	5288
+tumor pericarditis	5289
+tumor polyps	5290
+turkey liver	5291
+turpentine dermatitis	5292
+turtle	5293
+tympanosclerosis	5294
+type 1 diabetes	5295
+type 2 diabetes	5296
+type i spinal vascular malformation	5297
+type iv renal tubular acidosis	5298
+typhoid	5299
+typhoid and paratyphoid	5300
+typhoid fever	5301
+typhoid fever perforation	5302
+typhus	5303
+typhus rickettsial pneumonia	5304
+ulcer bleeding	5305
+ulcer perforation	5306
+ulcerative colitis	5307
+ulcerative colitis arthritis	5308
+ulcerative necrotizing stomatitis	5309
+ulcerative proctitis	5310
+ulcerative stomatitis	5311
+ulcers	5312
+ulna shaft fracture	5313
+ulnar nerve injury	5314
+ulnar nerve palsy	5315
+ulnar tunnel syndrome	5316
+umbilical cord prolapse	5317
+umbilical hernia	5318
+umbilical hernia in adults	5319
+umbilical hernia in infants	5320
+umbilical hernia in infants and young children	5321
+umbilical omphalocele polyp	5322
+uncomplicated vulvovaginal candidiasis	5323
+undescended testicles	5324
+undifferentiated carcinoma of salivary gland	5325
+unicameral bone cyst in children	5326
+unilateral abnormal lung translucency syndrome in children	5327
+unilateral and bilateral facet dislocation of the cervical spine	5328
+unilateral emphysema	5329
+unilateral facet joint dislocation	5330
+unilateral renal agenesis	5331
+unilocular bone cyst	5332
+unstable angina	5333
+unstable angina in the elderly	5334
+unstable hemoglobinopathy	5335
+upper airway obstruction	5336
+upper extremity deep vein thrombosis	5337
+upper gastrointestinal bleeding	5338
+upper gastrointestinal bleeding in the elderly	5339
+upper respiratory tract infection	5340
+upper third ulna fracture with radial head dislocation	5341
+upper trunk thoracic outlet syndrome	5342
+urachal cyst	5343
+urachal cyst and urachal fistula	5344
+ureaplasma urealyticum infection	5345
+uremia	5346
+uremic cardiomyopathy	5347
+uremic coma	5348
+uremic pericarditis	5349
+ureteral injury	5350
+ureteral prolapse	5351
+ureteral stones	5352
+ureteral tuberculosis	5353
+ureteric tumors	5354
+ureteritis	5355
+urethra tuberculosis	5356
+urethral cancer	5357
+urethral caruncle	5358
+urethral diverticulum	5359
+urethral injury	5360
+urethral mucosal prolapse	5361
+urethral stricture	5362
+urethral trauma	5363
+urethritis	5364
+urinary fistula	5365
+urinary incontinence	5366
+urinary incontinence in the elderly	5367
+urinary retention	5368
+urinary sensation during menstruation	5369
+urinary sensation in children	5370
+urinary stones	5371
+urinary stones in the elderly	5372
+urinary tract infection	5373
+urinary tract infection during menopause	5374
+urinary tract infection in children	5375
+urinary tract infections in the elderly	5376
+urinary tract obstruction	5377
+urinary tract obstruction in children	5378
+urinary tract stones	5379
+urinary tract tumor skin metastasis	5380
+urinary tract tumors	5381
+urine	5382
+urogenital actinomycosis	5383
+urogenital amebiasis	5384
+urogenital echinococcosis	5385
+urogenital fungal infections	5386
+urogenital mycoplasma infection	5387
+urogenital schistosomiasis	5388
+urogenital trichomoniasis	5389
+urolithiasis in children	5390
+urticaria	5391
+urticaria and angioedema	5392
+urticaria pigmentosa	5393
+urticarial drug eruption	5394
+urticarial vasculitis	5395
+uterine atony	5396
+uterine bleeding	5397
+uterine cysts	5398
+uterine fibroids	5399
+uterine hypertrophy	5400
+uterine leiomyosarcoma	5401
+uterine malignancy	5402
+uterine polyps	5403
+uterine prolapse	5404
+uterine rupture	5405
+uterine septate	5406
+uv damage	5407
+uveitis associated with multiple sclerosis	5408
+uveitis associated with polyarteritis nodosa	5409
+uveitis associated with systemic lupus erythematosus	5410
+uveitis in children and adolescents	5411
+uvula	5412
+vaccinitis	5413
+vaginal adenocarcinoma	5414
+vaginal adenosis	5415
+vaginal angiosarcoma	5416
+vaginal cysts	5417
+vaginal intraepithelial neoplasia	5418
+vaginal leiomyosarcoma	5419
+vaginal leukoplakia	5420
+vaginal retraction	5421
+vaginal sarcoma in adolescents and children	5422
+vaginal septum	5423
+vaginal squamous cell carcinoma	5424
+vaginal trichomoniasis	5425
+vaginal tumors	5426
+vaginal wall polyps	5427
+vaginismus	5428
+vaginitis	5429
+vagus nerve damage	5430
+variant angina	5431
+variant asthma	5432
+variant wolff-parkinson-white syndrome	5433
+varicella keratitis	5434
+varicella pneumonia	5435
+varicocele	5436
+varicose vein syndrome	5437
+varicose veins	5438
+varicose veins of the lower limbs	5439
+varicose veins of the tongue	5440
+vascular dementia in the elderly	5441
+vascular disease	5442
+vascular nevus	5443
+vasculitis	5444
+vasomotor rhinitis	5445
+velopharyngeal insufficiency	5446
+venereal disease	5447
+venison	5448
+venous thrombosis	5449
+venous thrombosis in the elderly	5450
+ventilator-associated pneumonia	5451
+ventricular arrhythmias	5452
+ventricular asleep	5453
+ventricular escape beats and ventricular escape rhythms	5454
+ventricular flutter and ventricular fibrillation	5455
+ventricular parallel rhythm and ventricular parallel rhythm tachycardia	5456
+ventricular septal defect	5457
+ventricular septal defect in children	5458
+ventricular tachycardia in children	5459
+ventriculitis	5460
+vernal conjunctivitis	5461
+verrucous gastritis	5462
+vertebral artery type cervical spondylosis	5463
+vertebral bone hyperplasia	5464
+vertebral osteomyelitis	5465
+vertebral tuberculosis	5466
+vertebrobasilar insufficiency in the elderly	5467
+vertigo	5468
+vertigo in the elderly	5469
+very light blue	5470
+vesicoureteral reflux	5471
+vesicoureteral reflux syndrome in children	5472
+vestibular cyst	5473
+vestibular disorders	5474
+vestibular neuritis	5475
+vestibular neuronitis	5476
+vestibulitis	5477
+vibrio parahaemolyticus enteritis	5478
+vibrio parahaemolyticus food poisoning	5479
+vipoma	5480
+viral cold	5481
+viral conjunctivitis	5482
+viral enteritis	5483
+viral esophagitis	5484
+viral eyelid dermatitis	5485
+viral gastroenteritis	5486
+viral hemorrhagic fever	5487
+viral hepatitis	5488
+viral meningitis	5489
+viral myocarditis	5490
+viral myocarditis in children	5491
+viral pharyngitis	5492
+viral pneumonia	5493
+viral pneumonia in children	5494
+viral stomatitis in children	5495
+viral upper respiratory tract infection	5496
+virus-associated hemophagocytic syndrome in children	5497
+visceral leishmaniasis	5498
+visceral schistosomiasis	5499
+vitamin a deficiency	5500
+vitamin a deficiency in children	5501
+vitamin a hypervitaminosis	5502
+vitamin a poisoning	5503
+vitamin b1 deficiency	5504
+vitamin b2 deficiency	5505
+vitamin b6 dependence syndrome	5506
+vitamin c deficiency	5507
+vitamin d deficiency	5508
+vitamin d deficiency rickets	5509
+vitamin d deficiency rickets in children	5510
+vitamin d deficiency tetany	5511
+vitamin d deficiency tetany in children	5512
+vitamin d toxicity	5513
+vitamin d-dependent rickets	5514
+vitamin e deficiency	5515
+vitamin e deficiency in children	5516
+vitamin e deficiency neuropathy	5517
+vitamin k deficiency	5518
+vitellogenous macular dystrophy	5519
+vitiligo	5520
+vitiligo in children	5521
+vitreous cysticercosis	5522
+vitreous disease	5523
+vitreous hemorrhage	5524
+vitreous herniation	5525
+vitreous liquefaction	5526
+vitreous opacities	5527
+vitreous parasitic diseases	5528
+vocal cord nodules	5529
+vocal cord polyps	5530
+volvulus	5531
+volvulus syndrome	5532
+vomiting in children	5533
+von willebrand disease	5534
+von willebrand disease in children	5535
+voyeurism	5536
+vulvar adenosquamous carcinoma	5537
+vulvar albinism	5538
+vulvar alveolar soft tissue sarcoma	5539
+vulvar burns, scalds, and chemical injuries	5540
+vulvar cancer	5541
+vulvar contact dermatitis	5542
+vulvar eczema	5543
+vulvar epithelioid sarcoma	5544
+vulvar fibroids	5545
+vulvar fibrosarcoma	5546
+vulvar folliculitis	5547
+vulvar furunculosis	5548
+vulvar growths	5549
+vulvar inclusion cyst	5550
+vulvar intraepidermal neoplasia	5551
+vulvar intraepithelial neoplasia	5552
+vulvar itching	5553
+vulvar leiomyoma	5554
+vulvar leiomyosarcoma	5555
+vulvar leukoplakia	5556
+vulvar melanoma	5557
+vulvar neurodermatitis	5558
+vulvar neurofibromas	5559
+vulvar nevus	5560
+vulvar pain	5561
+vulvar papilloma	5562
+vulvar pemphigus	5563
+vulvar pruritus	5564
+vulvar rhabdomyosarcoma	5565
+vulvar schwannoma	5566
+vulvar soft fibroma	5567
+vulvar squamous cell hyperplasia	5568
+vulvar synovial sarcoma	5569
+vulvar tuberculosis	5570
+vulvar ulcers	5571
+vulvar vestibulitis	5572
+vulvitis	5573
+vulvovaginal-gingival syndrome	5574
+vulvovaginitis in infants and young children	5575
+vulvovaginitis in young girls	5576
+walnut	5577
+wart	5578
+warts	5579
+water and sodium deficiency	5580
+water chestnut powder	5581
+water discharge during menstruation	5582
+water spinach	5583
+watermelon	5584
+watermelon seeds	5585
+watershed cerebral infarction	5586
+wear	5587
+wedge-shaped defect	5588
+western equine encephalitis	5589
+wet scrotum	5590
+wheat flour	5591
+wheat harvest dermatitis	5592
+whipworm disease	5593
+white baldness	5594
+white beans	5595
+white coat hypertension	5596
+white dandruff	5597
+white diarrhea	5598
+white eye bleeding	5599
+white hair	5600
+white hairy tongue	5601
+white lesions of the vulva during perimenopause	5602
+white lewdness	5603
+white membrane invasion of the eye	5604
+white radish	5605
+white sponge nevus of mucosa	5606
+white sugar	5607
+whitebait	5608
+wild animal injuries	5609
+wild onion	5610
+wild rice	5611
+wilms tumor	5612
+wind chill	5613
+wind tickles	5614
+wind-cold attacking the lungs	5615
+wind-heat cold	5616
+wind-heat headache	5617
+winter melon	5618
+wisdom tooth pericoronitis	5619
+wolff-parkinson-white syndrome	5620
+women's dream	5621
+wounds	5622
+wrinkled skin with lipomatous nevus	5623
+wrist spearing deformity	5624
+wrist sprain	5625
+wrist tuberculosis	5626
+wuchang fish	5627
+x-linked ichthyosis	5628
+xanthium sibiricum poisoning	5629
+xanthomonas maltophilia pneumonia	5630
+xiji	5631
+xinjiang hemorrhagic fever	5632
+yam	5633
+yang deficiency	5634
+yang deficiency fever	5635
+yellow fever	5636
+yellow wine	5637
+yersinia enterocolitica	5638
+yersinia enterocolitica pneumonia	5639
+yersinia pestis pneumonia	5640
+yin deficiency	5641
+yin deficiency and excessive fire	5642
+yin deficiency fever	5643
+yin-excess yang-deficiency syndrome	5644
+yogurt	5645
+young pigeons	5646
+youth hunchback	5647
+zinc deficiency	5648
+zinc deficiency in children	5649
+zinc poisoning	5650
+zygomatic bone fracture	5651
+β-aminoaciduria	5652
